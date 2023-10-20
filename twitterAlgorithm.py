@@ -15,7 +15,6 @@ class MyAlgorithm(QCAlgorithm):
         #Starting cash for backtest, i.e algoritmen starter med en portefølje på $100,000
         self.SetCash(100000)
 
-
         #Legger til TSLA stock til algoritmen
         #Vi har "Resolution.Minute" -> Det betyr at vi får prisdata hvert minutt. Kan endre til tick/sec/minute/hour/day 
         self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
@@ -39,10 +38,10 @@ class MyAlgorithm(QCAlgorithm):
             #Hvis score er over 0.5, kjøp TSLA, hvis score er under -0.5, selg TSLA
             #Positiv score betyr positiv sentiment, negativ score betyr negativ sentiment
             #Hvis bare litt poisitiv/negativ sentiment, ikke gjør noe. 
-            if score > 0.5:
+            if score > 0.75:
                 #100% av porteføljen blir brukt til å kjøpe TSLA 
                 self.SetHoldings(self.tsla, 1)
-            elif score < -0.5:
+            elif score < -0.75:
                 #100% av porteføljen blir brukt til å gå short TSLA
                 self.SetHoldings(self.tsla, -1)
 
