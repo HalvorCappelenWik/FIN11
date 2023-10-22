@@ -15,6 +15,8 @@ for i in range(0, len(df)):
         for url in urls:
             df["Text"][i] = df["Text"][i].replace(url, '{URL}')
 
+df['Datetime'] = pd.to_datetime(df['Datetime']).dt.strftime('%Y-%m-%d %H:%M:%S')
+
 #Lagrer til ny csv
 df.to_csv('data/Tweets_Processed_10-23.csv', index = False)
 
