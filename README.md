@@ -1,23 +1,25 @@
 # FIN11
-FIN11 Term paper: Trading and Market Microstructure. 
+FIN11 Term paper: Trading and Market Microstructure.
 
-* Quantconnet 
-* NLTK for sentiment analysis 
+### Paper  
+* [Link to PDF doc]
 
-### Data
-* Tweets 2012-2017 -> https://www.kaggle.com/datasets/kulgen/elon-musks-tweets 
-* Tweets 2010-2023 (june) -> https://www.kaggle.com/datasets/aryansingh0909/elon-musk-tweets-updated-daily?rvi=1
+### Implementation 
+* [Twitter Trading Bot](code/twitterAlgorithm.py)
 
-
-### Notes
-* Look-ahead bias
-* sentimentanalyzer is not optimized for twitter text data?
-* Dont use to many fixed parameters. If so always be able to explain why this "value" 
+### Data (raw)
+* [Tweets 2012-2017](https://www.kaggle.com/datasets/kulgen/elon-musks-tweets) 
+* [Tweets 2010-2023 (june)](https://www.kaggle.com/datasets/aryansingh0909/elon-musk-tweets-updated-daily?rvi=1)
 
 
-### Exampel on sentiment analysis:
-    tweet = "first profitable q for tesla thanks to awesome customers & hard work by a super dedicated team" 
-    sia.polarity_scores(tweet) = {neg: 0.051, neu: 0.331, pos: 0.618, compound: 0.9468}
+### Credits and Licences 
+* [Quantconnet](https://www.quantconnect.com/)
+* [Lean](https://www.lean.io/)
+* [NLTK](https://www.nltk.org/)
 
-    tweet = "not all good news. virginia dmv commissioner just denied tesla dealer license" 
-    sia.polarity_scores(tweet) = {neg: 0.347, neu: 0.653, pos: 0.0, compound: -0.6492}
+### Authors 
+* Pål Venø 
+* Hallvard Bachmann 
+* Halvard Bø 
+* Halvor Cappelen Wik 
+
