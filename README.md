@@ -1,23 +1,22 @@
-# FIN11
-FIN11 Term paper: Trading and Market Microstructure.
+# FIN11 - Trading and Market Microstructure 
 
-### Paper  
+## Paper  
 * [Link to PDF doc]
 
-### Implementation 
+## Implementation 
 * [Twitter Trading Bot](code/twitterAlgorithm.py)
 
-### Data (raw)
+## Data (raw)
 * [Tweets 2012-2017](https://www.kaggle.com/datasets/kulgen/elon-musks-tweets) 
 * [Tweets 2010-2023 (june)](https://www.kaggle.com/datasets/aryansingh0909/elon-musk-tweets-updated-daily?rvi=1)
 
 
-### Credits and Licences 
+## Credits and Licences 
 * [Quantconnet](https://www.quantconnect.com/)
 * [Lean](https://www.lean.io/)
 * [NLTK](https://www.nltk.org/)
 
-### Authors 
+## Authors 
 * Pål Venø 
 * Hallvard Bachmann 
 * Halvard Bø 
