@@ -1,12 +1,13 @@
 import pandas as pd
 import re 
 
-df = pd.read_csv("data_elonmusk.csv", encoding='latin1')
+df = pd.read_csv('data/Tweets_12-17.csv', encoding='latin1')
 
 df = df[["Time", "Tweet"]]
 
 #Reverserer rekkefølge
 df = df[::-1].reset_index(drop = True)
+
 
 for i in range(0, len(df)):
     if "http" in df["Tweet"][i]:
@@ -16,6 +17,10 @@ for i in range(0, len(df)):
             df["Tweet"][i] = df["Tweet"][i].replace(url, '{URL}')
 
 
-print(df.head())
+#Lagrer til ny csv
+df.to_csv('data/Tweets_Processed2.csv', index = False)
 
+
+print(df.head())
 print(df.info())
+
