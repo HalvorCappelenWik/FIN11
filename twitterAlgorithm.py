@@ -1,13 +1,14 @@
 #region imports
 from AlgorithmImports import *
 #endregion
+from datetime import datetime, timedelta
 from nltk.sentiment import SentimentIntensityAnalyzer
 
 
 class MyAlgorithm(QCAlgorithm):
 
     def Initialize(self):
-
+            
         #Start and end dates for backtest 
         self.SetStartDate(2012, 11, 1)
         self.SetEndDate(2017, 1, 1)
@@ -19,7 +20,7 @@ class MyAlgorithm(QCAlgorithm):
         #Vi har "Resolution.Minute" -> Det betyr at vi får prisdata hvert minutt. Kan endre til tick/sec/minute/hour/day 
         self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
 
-        #Vår egen data av tweets fra Elon Musk, Som også er Resulution.Minute
+        #Vår egen data av tweets fra Elon Musk, Resulution.Minute (algoritme sjekker for data hvert miunutt)
         self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol
 
         #Går ut av posisjoner 15 minutter før markedet stenger hver dag
@@ -69,6 +70,9 @@ class MuskTweet(PythonData):
         source = "https://www.dropbox.com/s/cmi9xcvhh1cbhjl/MuskTweetsPreProcessed.csv?dl=1"
         return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
 
+
+
+
     #Leser data fra MuskTweetsPreProcessed.csv
     def Reader(self, config, line, date, isLive):
 
@@ -79,7 +83,7 @@ class MuskTweet(PythonData):
         #Splitter linjen på komma
         data = line.split(',')
         tweet = MuskTweet()
-        
+
 
         try:
             tweet.Symbol = config.Symbol
