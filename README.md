@@ -12,6 +12,7 @@ FIN11 Term paper: Trading and Market Microstructure.
 ### Notes
 * Look-ahead bias
 * sentimentanalyzer is not optimized for twitter text data?
+* Dont use to many fixed parameters. If so always be able to explain why this "value" 
 
 
 ### Exampel on sentiment analysis:
