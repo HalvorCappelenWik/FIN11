@@ -1,0 +1,646 @@
+2011-01-01 00:00:00 Launching analysis for 82b61d18f7cbb8430f8f11389eb3403f with LEAN Engine v2.5.0.0.15927
+2012-08-22 16:12:24 Score: 0.7964, Tweet: glad to contribute to the tesla museum and will do more in the future. he was a great man. {url}
+2012-08-22 16:15:31 Score: 0.8122, Tweet: i love the sight of teslas in the morning. production line review is looking good! {url}
+2012-09-17 01:41:23 Score: 0.5697, Tweet: tesla made 100 vehicle bodies this week for the first time. really proud of the team! pic of s/n 396: {url}
+2012-09-25 04:35:04 Score: 0.6369, Tweet: the tesla supercharger will over time allow you to travel anywhere on pure sunlight for free {url}
+2012-11-16 01:26:08 Score: 0.6597, Tweet: sounds like consumer reports had a good experience with the tesla model s {url}
+2012-11-20 19:23:29 Score: -0.7063, Tweet: "mass. judge denies auto dealers' demand to kill our little tesla store. yay
+2012-12-04 04:41:56 Score: 0.8834, Tweet: am happy to report that tesla was narrowly cash flow positive last week. continued improvement expected through year end.
+2012-12-09 08:39:48 Score: 0.5707, Tweet: congrats to @dmetcalf for being the first to drive a tesla model s over 400 miles on a single charge!
+2012-12-11 02:55:30 Score: 0.75, Tweet: tesla was just approved for a full class 1 massachusetts auto sales license by a vote of 4 to 1. much appreciated!
+2012-12-19 01:21:51 Score: 0.8016, Tweet: "thanks! â@ev: have driven a tesla model s 50 miles now. it's clearly the iphone of carsâby far the best car ever made."""
+2013-02-11 19:45:06 Score: 0.8932, Tweet: @tomleykis thanks tom! support of real tesla customers like yourself who drive the car every day is v much appreciated.
+2013-03-08 15:17:35 Score: -0.5255, Tweet: minnesota auto dealers tried to pass legislation to block tesla stores. bill was just defeated in senate. thanks mn!
+2013-03-25 18:49:30 Score: 0.5413, Tweet: really exciting @teslamotors announcement coming on thursday. am going to put my money where my mouth is in v major way.
+2013-03-31 00:55:44 Score: 0.6597, Tweet: "thanks bob â@bobmetcalfe: tesla takes on tx dealer's association (ma too) - repeal anti-competitive dealer laws - {url}"""
+2013-04-01 04:52:03 Score: 0.9468, Tweet: first profitable q for tesla thanks to awesome customers &amp; hard work by a super dedicated team {url}
+2013-04-02 16:20:41 Score: 0.802, Tweet: certainly true that many people believe that tesla and spacex are powered by the #hhgttg infinite improbability drive :)
+2013-04-02 17:50:11 Score: 0.8481, Tweet: am headed to tx next week to thank people personally for supporting tesla. please head to sb 1659 @ 8am tomorrow #teslatx
+2013-04-03 00:05:53 Score: 0.6249, Tweet: great explanation of the @teslamotors announcement by @techcrunch {url}
+2013-04-08 19:23:02 Score: -0.5267, Tweet: "sarah palin calls tesla a loser. am deeply wounded. {url}  btw
+2013-04-11 02:12:40 Score: 0.5707, Tweet: yay for democracy! @latimes asks: should tesla motors be able to sell directly to consumers? {url}
+2013-04-23 22:43:03 Score: -0.6492, Tweet: "not all good news. virginia dmv commissioner just denied tesla a dealer license
+2013-05-01 17:45:55 Score: 0.6486, Tweet: @realbhuwan @teslamotors cool :)
+2013-05-04 06:38:16 Score: 0.7184, Tweet: @teslatrip you're welcome :)
+2013-05-08 23:55:46 Score: 0.6369, Tweet: "just want to say thanks to customers &amp; investors that took a chance on tesla through the long
+2013-05-09 00:59:49 Score: 0.624, Tweet: @howardreiter totally agree. tesla will circle back and do something cool for roadsters next year.
+2013-10-30 14:48:29 Score: 0.5562, Tweet: tesla west coast supercharger network now energized. travel from vancouver to tijuana in styel! {url}
+2013-11-02 18:57:33 Score: 0.5399, Tweet: "thanks woz! ""@stevewoz: here to pick up my new car! (at @teslamotors w/ 2 others)"""
+2013-11-19 14:51:48 Score: -0.7506, Tweet: "why does a tesla fire w no injury get more media headlines than 100
+2013-11-19 17:29:45 Score: -0.8271, Tweet: tesla is also extending the model s warranty to cover any fire damage even if due solely to a driver accident
+2014-01-26 09:25:58 Score: 0.5106, Tweet: "tesla supercharger network now energized from new york to la
+2014-02-02 14:08:53 Score: -0.68, Tweet: tesla la to ny supercharger rally just completed in 76 hours across northern route in dead of winter thru heavy snow!
+2014-02-07 17:55:59 Score: 0.5106, Tweet: "value is holding up ""tesla car is worth more used than new | mnn - {url}"""
+2014-03-14 06:21:48 Score: 0.8622, Tweet: just discovered a great tesla ad made by 2 recent college grads. i love it! {url}
+2014-05-25 17:13:37 Score: 0.8687, Tweet: prince albert &amp; princess charlene drove a tesla around the track to open @f1 monaco! the honor is much appreciated :) {url}
+2014-11-24 22:54:05 Score: 0.5093, Tweet: welcome back @ricardor to run the @teslamotors communications team!
+2015-01-29 20:42:56 Score: -0.6597, Tweet: tesla dual motor cars are also all-wheel drive. main goal of dual motor was actually insane traction on snow. insane speed was a side effect
+2015-02-24 21:02:45 Score: 0.6369, Tweet: tesla model s rated by @consumerreports as best car in world for 2nd year in a row {url}
+2015-03-18 20:14:43 Score: 0.6696, Tweet: "thanks to everyone that supported tesla in new jersey! we couldn't have done it without you.
+2015-04-01 20:09:07 Score: 0.5859, Tweet: "announcing the amazing tesla model w 
+2015-04-19 15:59:47 Score: 0.6239, Tweet: @andrewket @teslaroadtrip wow!
+2015-06-15 16:23:09 Score: 0.5423, Tweet: spacex/tesla will also do a reference pod to be shown after the @hyperloop competition. bonus for all racing teams that exceed reference.
+2015-06-19 22:12:23 Score: 0.8356, Tweet: tesla service team helps save a stray kitten that took refuge in a model s. nice work guys! {url}
+2015-10-11 00:36:12 Score: 0.5411, Tweet: some exciting news this week: tesla version 7 software with autopilot goes to wide release on thursday!
+2015-10-21 21:36:53 Score: 0.5707, Tweet: congrats on driving a tesla from la to ny in just over two days! {url}
+2016-02-10 08:08:55 Score: 0.6369, Tweet: love this tesla video made by {url}
+2016-03-05 18:33:48 Score: 0.7003, Tweet: @wk057 @teslamotors wasn't done at my request. good hacking is a gift.
+2016-04-09 00:36:20 Score: 0.6808, Tweet: "just wanted to write a note of appreciation for all those who have supported tesla
+2016-05-06 09:21:07 Score: 0.7717, Tweet: @hansmikael @teslamotors thank goodness all are ok
+2016-06-04 20:02:22 Score: 0.6003, Tweet: good article from @themotleyfool explaining how little incentives have actually contributed to tesla funding {url}
+2016-07-10 16:54:56 Score: 0.6908, Tweet: today is nikola tesla's birthday. i hope he likes what we've done in his name.
+2016-07-10 19:10:44 Score: 0.701, Tweet: kinda. creating a seamlessly integrated tesla battery &amp; solar power product that looks beautiful is the reason {url}
+2016-07-17 21:17:33 Score: 0.6249, Tweet: great rebuttal by a tesla owner to those calling for autopilot to be disabled. was written with zero input from us. {url}
+2016-07-18 02:02:35 Score: 0.6096, Tweet: "@bilalnaseer thanks. exactly. some in the press think they're so much smarter than tesla owners that ""they know better"". makes no sense."
+2016-07-21 04:59:40 Score: 0.6249, Tweet: "@danahull jerome is driving tesla semi &amp; doing a great job with his team. at daimler
+2016-07-29 22:27:21 Score: 0.6249, Tweet: some good guessing by @jalopnik. the tesla minibus will be built on a model x chassis. people density potential is surprisingly high.
+2016-07-30 15:41:05 Score: 0.8122, Tweet: @sethpascale @teslamotors glad people had a great time!
+2016-09-13 22:15:09 Score: 0.743, Tweet: "comprehensive study by autolist shows that a tesla retains its value far better than gasoline sedans
+2016-09-28 19:05:50 Score: -0.7579, Tweet: @gooddaym something messed up here. tesla policy is equal pricing for all. no discounts ever unless a car is a floor model or was damaged.
+2016-11-04 16:16:43 Score: 0.7845, Tweet: @mrroryreid @mykalsocal @bbc_topgear @teslamotors loving this thread :)
+2016-11-06 21:38:58 Score: 0.7184, Tweet: playing amish paradise in my tesla
+2016-11-17 21:52:05 Score: 0.7088, Tweet: vote tally shows ~85% of unaffiliated shareholders in favor of the tesla/solarcity merger! thanks for believing.
+2016-11-19 09:39:05 Score: 0.5106, Tweet: @veritasdk @teslamotors that and paint it black will both be uploaded for free as easter (holiday?) eggs
+2016-11-19 09:43:49 Score: 0.5719, Tweet: @itsjasonwhite @teslamotors perfect
+2016-12-22 01:00:57 Score: 0.6808, Tweet: tesla autopilot vision neural net now working well. just need to get a lot of road time to validate in a wide range of environments.
+2017-01-11 00:41:41 Score: 0.7269, Tweet: @teslamotors tesla's approach to building an autonomy platform is focused on high compute efficiency machine learning. primarily vision w radar &amp; sonar.
+2017-02-11 02:19:03 Score: 0.6597, Tweet: @seacitylight @nas2four sounds like the tesla powerwall (consumer) and powerpack (utility/commercial) might be useful
+2017-02-23 12:23:31 Score: 0.5719, Tweet: excellent tesla model x review {url}
+2017-03-24 14:29:40 Score: 0.6597, Tweet: @luciojr all tesla cars built since oct last year will be capable of self-driving as software improves
+2017-05-10 07:57:12 Score: 0.6249, Tweet: tesla solar glass roof orders open this afternoon. i think it will be great. more in about 10 hours ...
+2017-05-10 21:41:00 Score: 0.5423, Tweet: @sahilmalik that's how the tiles sit on the roof. there is no difference in strength for the tesla tile based on orientation (not like wood).
+2017-05-24 04:51:56 Score: 0.5994, Tweet: @station2stat @teslamotors will shut that down. the point is to provide something special that only existing owners can give to friends and it is limited to 5 people.
+2017-06-05 17:40:44 Score: -0.5267, Tweet: @rolandscahill @teslamotors wearing anything at all is just a conspiracy by the capitalist running dogs of big underwear
+2017-06-09 22:38:16 Score: -0.8126, Tweet: @samabuelsamid @teslamotors mostly right. the feasibility study martin commissioned about the lotus elise was dead wrong though. only 7% of parts ended up being common.
+2017-06-09 22:54:18 Score: -0.5565, Tweet: @fredericlambert @samabuelsamid @teslamotors heard about it. our experience doing projects with big car companies was not great. they move slowly &amp; are reluctant to adopt new tech.
+2017-06-09 23:00:57 Score: 0.7003, Tweet: @steveprediletto @samabuelsamid @teslamotors thanks for supporting tesla and the ev mission before anyone had heard of us
+2017-07-02 17:52:55 Score: 0.5093, Tweet: @janeidyeve @arstechnica @teslamotors @spacex suggestions welcome!
+2017-07-02 19:41:04 Score: 0.6249, Tweet: @cristian_miuta @teslamotors norway is awesome
+2017-07-21 21:09:51 Score: 0.6249, Tweet: @drchrisvieira la-sf-reno/sparks would be great. tesla logistics costs for sparks-fremont (batteries &amp; motors) and fremont-la (finished cars) are gigantic.
+2017-07-26 03:19:16 Score: 0.5106, Tweet: love this tesla p100d drag racing video {url}
+2017-07-29 01:49:32 Score: 0.8225, Tweet: "@teslaownerclub watched them personally to make sure &amp; i agree with the outcome. wouldn't have judged differently. amazing videos all
+2017-08-05 19:45:03 Score: 0.6981, Tweet: officially verified as the first production electric car to exceed 1000km on a single charge! congratulations tesla owners italia!! {url}
+2017-11-23 06:03:03 Score: 0.5148, Tweet: congratulations to the tesla crew and south australian authorities who worked so hard to get this manufactured and installed in record time! {url}
+2017-12-21 15:35:15 Score: 0.8779, Tweet: glad to see that tesla owners are having a good experience. working to improve further. some cool software updates coming soon. {url}
+2018-01-31 23:35:34 Score: 0.6124, Tweet: "@omaruddin @stevewoz @tesla @businessinsider woz is a lovable
+2018-02-16 00:35:21 Score: -0.5994, Tweet: @teslarati adding software feature to open glovebox automatically when car comes to a stop after a crash. will look at bonding a thin plastic sheet to the front or back of screen.
+2018-03-07 18:55:42 Score: 0.5719, Tweet: @futurecars360 @tesla will have model x do a cover of happy birthday by marilyn monroe {url}
+2018-03-18 04:32:53 Score: 0.7088, Tweet: @iraehrenpreis @tesla thanks for your support over all those years!
+2018-04-01 22:15:22 Score: 0.5106, Tweet: @vreeman coming soon to tesla merch. free shots in stores every april 1st.
+2018-05-10 01:01:56 Score: 0.6369, Tweet: tesla quarterly all-hands video. love the shot of wild horses &amp; giga in winter {url}
+2018-05-10 06:46:13 Score: 0.5859, Tweet: "@teslanomicsco @wayfair @teslaclubsweden wow
+2018-05-10 10:19:05 Score: 0.6249, Tweet: @mactechgenius @teslanomicsco @wayfair @teslaclubsweden i wrote that masterpiece myself in html 1.0
+2018-05-11 19:53:22 Score: 0.5859, Tweet: "@existentialcoms our giant auto co competitors have much greater access to incentives than tesla
+2018-05-14 20:55:12 Score: -0.5106, Tweet: "itâs super messed up that a tesla crash resulting in a broken ankle is front page news and the ~40
+2018-05-20 06:32:40 Score: 0.7906, Tweet: tesla dual motor means there is a motor in front &amp; a motor in rear. one is optimized for power &amp; one for range. car drives fine even if a motor breaks down. helps ensure you make it to your destination &amp; donât get stuck on side of road in potentially unsafe conditions.
+2018-05-22 01:39:52 Score: 0.6249, Tweet: "@teslaology @electrekco @fredericlambert good point. yeah
+2018-05-22 04:44:32 Score: 0.8555, Tweet: just wanted to say thanks to all tesla supporters. i damn well love you.
+2018-05-22 18:08:07 Score: 0.5106, Tweet: "weâre going to include some fun games as hidden easter eggs in tesla s
+2018-05-23 20:24:05 Score: -0.6038, Tweet: "@parkermolloy iâve never stopped a union vote nor removed a union. uaw abandoned this factory. tesla arrived &amp; gave people back their jobs. they havenât forgotten uaw betrayed them. thatâs why uaw canât even get people to attend a free bbq
+2018-05-26 17:59:06 Score: -0.5095, Tweet: @omcintyre @crampedeyes @spacex @tesla what are you talking about? youâre being incredibly rude &amp; nonsensical.
+2018-05-26 18:47:31 Score: -0.5106, Tweet: @aquastellaris @pocketsdog @omcintyre @crampedeyes @spacex @tesla the pain will end
+2018-05-30 22:36:53 Score: 0.5095, Tweet: @jeffreywolder @jeffnesbit @tesla youâre most welcome. more to come in this regard.
+2018-06-03 06:17:43 Score: 0.5106, Tweet: @cassianelwes appreciated on behalf of tesla team
+2018-06-08 17:30:38 Score: 0.8807, Tweet: @teslaology @dmc_ryan @tesla weâre building out tesla body repair in all major metro areas to ensure super fast &amp; excellent outcome
+2018-06-16 20:19:04 Score: 0.8516, Tweet: amazing work by tesla team. built entire new general assembly line in 3 weeks w minimal resources. love u guys so much! pic of 1st model 3 dual motor performance coming off the line â¦ {url}
+2018-06-17 16:44:57 Score: 0.765, Tweet: "@doctorow iain certainly wasnât pro-union in the culture books. at all. and wouldnât be in the case of tesla. banks was about freedom through &amp; through. maybe for a single buyer (monopsony) vs single seller (monopoly)
+2018-06-19 03:37:42 Score: 0.7123, Tweet: @maysacha @jayprisefighter @cfarivar not sure we actually need a building. this tent is pretty sweet. tesla grohmann line is in place at giga &amp; spooling up now. they super kicked ass too. heiliger strohsack!
+2018-06-22 18:12:24 Score: 0.872, Tweet: @model3owners was thinking of offering an extended tesla factory tour option where you could help build part of a car &amp; understand how they come together. i know it would have been super fun for me when i was a kid (or now).
+2018-06-23 20:23:23 Score: 0.6786, Tweet: @scobleizer @trace_cohen expanding the tour soon. so many cool things to see. tesla car factory has 3rd largest footprint of any building on earth. maybe 1st if you include all our sweet tents âºï¸ð
+2018-06-26 17:22:46 Score: -0.6115, Tweet: @justwidle2 @tesla then you will really hate that tesla scored 100/100 four years in a row on lgbtq equality {url}
+2018-06-26 18:09:22 Score: 0.6369, Tweet: "what would you love to see in a tesla pickup truck? i have a few things in mind
+2018-07-02 21:39:02 Score: -0.5994, Tweet: "@willfealey @tesla @radioflyer no problem
+2018-07-04 01:23:29 Score: 0.7096, Tweet: @robertoblake @yanquetino @tesla ideas &amp; corrections that could make a product or service better are always welcome
+2018-07-05 08:18:21 Score: -0.7003, Tweet: "@aperezposada @reuters .@reuters is relentlessly negative about tesla. they just wrote a bogus article saying s production last week was low by 800 cars. s/x annual prod is set at ~100k
+2018-07-05 20:08:53 Score: 0.7998, Tweet: @ajs @nichcarlson @businessinsider @lopezlinette are you 100% certain that @businessinsider stands by @lopezlinette &amp; supports everything sheâs done? why wonât lopez go on record saying that she never offered tripp anything for inside info or asked him to break his confidentiality agreement by taking detailed video of tesla ip?
+2018-07-12 09:05:03 Score: 0.8166, Tweet: just finished an amazing 3 day visit to china. the world has never seen human energy &amp; vigor at such scale. incredibly impressed with tesla china team &amp; potential for the future.
+2018-07-14 02:46:20 Score: 0.8225, Tweet: "@johndstoll @wsj @mtbarra iâm honored to work with an amazing group of people at tesla
+2018-07-23 18:25:35 Score: 0.5859, Tweet: "@willfealey @tesla @teslaownersuk wow
+2018-07-31 18:40:44 Score: 0.5093, Tweet: @ilehonardo canât wait to bring tesla to brazil. one of my favorite countries!
+2018-08-01 18:41:17 Score: 0.8122, Tweet: some of best classic @atari games coming as easter eggs in tesla v9.0 release in about 4 weeks. thanks @atari!
+2018-08-05 20:25:34 Score: 0.9168, Tweet: glad youâre enjoying model 3 &amp; thanks for buying a tesla! major enhancements to autopilot &amp; fun games coming in a month with v9.0.
+2018-08-07 18:08:17 Score: 0.892, Tweet: @heydave7 absolutely. am super appreciative of tesla shareholders. will ensure their prosperity in any scenario.
+2018-08-11 18:43:50 Score: 0.9688, Tweet: great q&amp;a @defcon last night. thanks for helping make tesla &amp; spacex more secure! planning to open-source tesla vehicle security software for free use by other car makers. extremely important to a safe self-driving future for all.
+2018-08-16 23:39:13 Score: 0.802, Tweet: @stephennellis @tesla nvidia makes great hardware. high respect for jensen &amp; company. our hardware needs were just unique &amp; matched tightly to our software.
+2018-08-18 08:39:23 Score: 0.8902, Tweet: super appreciate free concert for tesla during this intense time! ð¤ð¤
+2018-08-22 23:37:26 Score: 0.938, Tweet: "@tldtoday @tesla thanks for buying our car! would highly recommend performance version. itâs really good &amp; i donât say that lightly. nothing will give you greater joy. full refund
+2018-08-24 13:06:43 Score: 0.765, Tweet: "@ashleyesqueda tesla car karaoke hopefully ready in ota software update version 10. just played missile command
+2018-08-25 17:30:16 Score: 0.6369, Tweet: "@j_brorsson @insideevs @tesla @airresources most major customers have tried it &amp; love it. now we need to finish production design &amp; build it
+2018-08-25 23:16:39 Score: -0.5267, Tweet: "@yanquetino @tesla most people donât realize that the cost of operating an electric vehicle is much lower than a gas car. electricity is way cheaper than gas plus no oil changes
+2018-08-28 03:11:32 Score: 0.6486, Tweet: @theianchen @tesla sure :)
+2018-09-03 22:26:58 Score: 0.8268, Tweet: "@mliebow @tesla much appreciated! great word-of-mouth is why model 3 is the best-selling electric car
+2018-09-14 15:57:22 Score: 0.5423, Tweet: "@joannmuller @alanohnsman @forbes the tesla board has done incredible work overseeing the largest value creation in the auto industry in 100+ years
+2018-09-15 23:37:40 Warning: Portfolio rebalance result ignored as it resulted in a single share trade recommendation which can generate high fees. To disable minimum order size checks please set Settings.MinimumOrderMarginPortfolioPercentage = 0.
+2018-09-15 23:37:40 Score: 0.8402, Tweet: "tesla owners can grant free supercharging for life to a friend who buys s/3/x. ends tomorrow night. {url}"""
+2018-09-20 02:43:52 Score: 0.5859, Tweet: "@primadanna @tesla @alphacali wow
+2018-09-20 17:45:59 Score: 0.6705, Tweet: tesla piece on the physics of car safety coming soon for those interested in technical details
+2018-09-28 21:24:41 Score: -0.6239, Tweet: sorry for difficulties delivering your tesla due to high volume! critical to show that environmentally sustainable is financially sustainable.
+2018-09-28 21:34:05 Score: 0.8585, Tweet: huge thank you to all tesla supporters for helping with car deliveries all around the world. you rock!!
+2018-10-08 15:43:18 Score: 0.7906, Tweet: "the physics of how tesla achieved best safety of any cars ever tested. note
+2018-10-12 00:13:20 Score: 0.5994, Tweet: @mhmtkcn @tesla beautiful picture
+2018-10-14 21:53:35 Score: 0.807, Tweet: "@cleantechnica thanks for recognizing the great work of the tesla team! 45
+2018-10-15 06:52:03 Score: 0.5563, Tweet: @ttfue @tesla what are some of the most fun games we could have on a tesla? classic atari is just the start.
+2018-10-15 16:45:24 Score: 0.7184, Tweet: @alguiretim @tesla haha. it is actually my fav game on tesla cars right now ð
+2018-10-18 23:20:44 Score: 0.7574, Tweet: "tesla rear wheel drive cars do actually work well on snow &amp; ice. we did our traction testing on an ice lake! dual motor awd is great
+2018-10-18 23:31:13 Score: 0.723, Tweet: "@dennishegstad itâs kind of like the post office. same price for delivery to maine as the sf bay area. but you do get a free tesla factory tour
+2018-10-25 07:36:32 Score: 0.7003, Tweet: massive thanks to tesla owners &amp; supporters. we wouldnât be here without you.
+2018-10-25 22:50:56 Score: 0.8264, Tweet: "@model3owners love tesla supporters so much!!â¥ï¸â¥ï¸â¥ï¸â¥ï¸â¥ï¸â¥ï¸â¥ï¸â¥ï¸
+2018-10-27 01:17:21 Score: 0.5106, Tweet: @factsdatatruth @tesla youâre right. earlier model 3 performance buyers got free lifetime supercharging. will add that to anyone who bought recently.
+2018-10-27 01:52:47 Score: -0.5574, Tweet: "@sheldonth @factsdatatruth @tesla not exactly. we just bundled the upgrade package into performance. no problem if you want to return the car
+2018-10-31 17:39:02 Score: 0.6486, Tweet: @rarelyserious @tesla cool haha
+2018-11-01 05:47:00 Score: 0.5848, Tweet: "tesla advanced summon ready in ~6 weeks! just an over-the-air software upgrade
+2018-11-02 19:44:35 Score: 0.7698, Tweet: "@teslarati amazing results by @panasonic at tesla gigafactory nevada! very much appreciate extreme hard work it took to achieve this result. together with pana japan cell plants
+2018-11-03 02:18:39 Score: 0.8478, Tweet: @scobleizer @tesla theyâre great! honored to work with them.
+2018-11-08 08:41:37 Score: 0.9042, Tweet: @tesla would like to thank robyn for joining the team. great respect. very much look forward to working together.
+2018-11-09 05:02:46 Score: 0.8066, Tweet: please lmk what youâd most like improved/fixed about your tesla. thanks!
+2018-11-14 15:47:11 Score: 0.5106, Tweet: @nichegamer would be fun to add to tesla
+2018-11-29 18:35:25 Score: 0.9286, Tweet: "super fun software easter eggs coming to all tesla s/3/x cars before the holidays! romance mode
+2018-12-01 22:40:53 Score: 0.6369, Tweet: @nikesharora @tesla glad youâre ok
+2018-12-01 22:48:38 Score: 0.6808, Tweet: @eesny @teslaownerssv @s100dfan applying a hydrophobic coating to the radar (located just below nose of car) should help. easy to do yourself or tesla service can do it. weâre also working on vision-only driving.
+2018-12-09 18:56:02 Score: 0.7003, Tweet: "major credit to ac propulsion for the tzero electric sports car 1997-2003 that inspired tesla roadster. without that
+2018-12-11 13:08:20 Score: 0.8955, Tweet: @teslectrics @60minutes youâre right. there was a ton of footage with many people at tesla that would be great to share. longer pieces like we did with @mkbhd tell a more interesting story.
+2018-12-11 13:48:41 Score: 0.6369, Tweet: "love that people are buying a tesla for the product itself
+2018-12-11 14:09:56 Score: 0.5267, Tweet: "important note for us tesla buyers: federal tax credit drops by $3750 in 3 weeks. 
+2018-12-18 15:18:51 Score: 0.8356, Tweet: honored to work with amazing teams at spacex &amp; tesla!
+2018-12-22 19:06:57 Score: 0.7783, Tweet: "@wangmeister if tesla committed delivery &amp; customer made good faith efforts to receive before year end
+2018-12-24 23:34:43 Score: 0.6696, Tweet: @vicentes @tesla glad youâre ok!
+2018-12-27 21:01:00 Score: 0.6588, Tweet: @westcoastbill tesla team did a great job!
+2018-12-28 18:17:38 Score: 0.5983, Tweet: excited to have larry ellison &amp; kathleen wilson-thompson join the tesla board! {url}
+2018-12-30 20:09:16 Score: 0.5399, Tweet: @ben757677 @vincent13031925 thanks tesla owners in china! looking forward to visiting soon for the groundbreaking of gigafactory shanghai!
+2018-12-31 02:28:59 Score: 0.6908, Tweet: "good summary of tesla progress in 2018 by @cleantechnica (due to tesla team
+2019-01-01 07:18:51 Score: 0.6688, Tweet: congratulations @tesla team!! {url}
+2019-01-03 01:26:02 Score: 0.6588, Tweet: great work by tesla team!
+2019-01-10 06:41:31 Score: 0.7845, Tweet: tesla *with* autopilot engaged is twice as safe &amp; continues to make steady improvements
+2019-01-17 05:32:17 Score: 0.7783, Tweet: "the tesla customer referral program will end on feb 1. if you want to refer a friend to buy a tesla &amp; give them 6 months of free supercharging
+2019-01-22 23:56:04 Score: 0.6369, Tweet: "@teslamodel3fan @tesla since itâs part of safety &amp; security
+2019-01-26 21:30:10 Score: -0.6486, Tweet: "@petterware all doors unlock automatically when the tesla comes to a stop after an accident. there is both primary &amp; backup power to doors
+2019-01-27 20:30:20 Score: 0.5423, Tweet: tap tesla logo at top of your carâs touchscreen &amp; wait 10 secs to open special features box
+2019-01-28 17:21:17 Score: 0.6249, Tweet: "great electric car documentary about early days of tesla
+2019-01-28 17:22:32 Score: 0.6369, Tweet: @data_over_ideal @tesla sure hope that happens
+2019-01-31 04:43:08 Score: 0.7745, Tweet: @hyperchangetv @tesla @say youâre most welcome! very thoughtful questions.
+2019-01-31 20:57:47 Score: 0.6988, Tweet: "exciting to see all the new electric vehicles coming to market! we created tesla to accelerate a sustainable future &amp; itâs happening!
+2019-02-14 07:06:40 Score: 0.5095, Tweet: cnbc - âtesla model 3 ranked most satisfying carâ {url}
+2019-02-17 04:25:41 Score: -0.5267, Tweet: @fredericlambert @georgezachary i had to focus on solving a painfully large number of engineering &amp; manufacturing problems at tesla (especially) &amp; spacex
+2019-03-01 01:32:05 Score: 0.6369, Tweet: @tesla best choice for most people is standard range plus with autopilot
+2019-03-01 01:34:19 Score: 0.6249, Tweet: @erdayastronaut @tesla for sure. it fundamentally improves quality of life.
+2019-03-02 07:23:10 Score: 0.7206, Tweet: @raulv48 @bryanmacksc @tesla need to get back to spacex launch control. sorry this solution isnât perfect.
+2019-03-07 08:33:39 Score: 0.892, Tweet: @cleantechnica @evannex_com @zshahan3 @tesla youâre most welcome. very proud of tesla team. super tough 15 years!
+2019-03-07 22:44:51 Score: 0.5267, Tweet: @comeaujo @valueanalyst1 @tesla getting rid of peak power splitting across two bays &amp; updated software with battery warmup results in &gt;2x improvement in fleet charge time
+2019-03-21 07:23:51 Score: 0.6369, Tweet: "@teslaownerssv @teslagong best to get a tesla powerwall
+2019-03-21 21:17:08 Score: 0.5719, Tweet: @nicholaslars0n @tesla why uh yes we comprehensive statistics that go deep &amp; wide
+2019-03-22 00:39:44 Score: 0.5093, Tweet: @pennperspective @tesla youâre welcome!
+2019-03-22 05:20:50 Score: 0.6597, Tweet: @ideasforem @tesla sounds like a good idea
+2019-03-26 16:19:09 Score: 0.8271, Tweet: hard to appreciate how much tesla autopilot improves enjoyment of driving until you try it
+2019-03-27 20:27:45 Score: 0.807, Tweet: @briantu super proud of tesla autopilot team!
+2019-03-30 00:33:21 Score: 0.5106, Tweet: "@emilmelar retrofits will start when our software is able to take meaningful advantage of the tesla fsd computer
+2019-03-30 13:28:12 Score: 0.5859, Tweet: @teslarati wow
+2019-03-30 17:01:52 Score: 0.5859, Tweet: "amazing work by tesla delivery teams
+2019-04-04 01:00:16 Score: 0.8264, Tweet: @sherylcrow @tesla glad you like it! sorry about the trouble earlier. helpful feedback for improving the car!
+2019-04-04 03:23:32 Score: 0.6249, Tweet: @ev_stevee @tesla great name ð
+2019-04-05 01:34:28 Score: 0.5106, Tweet: "@livingtesla @tesla itâs there for when we start competing with uber/lyft &amp; people allow their car to earn money for them as part of the tesla shared autonomy fleet. in case someone messes up your car
+2019-04-05 02:06:45 Score: 0.5106, Tweet: @slye @livingtesla @tesla impressive analysis
+2019-04-05 02:11:38 Score: 0.5574, Tweet: @bluemoondance74 @solussd @tesla iâm told itâs looking positive &amp; we will be allowed to continue servicing our cars in texas
+2019-04-05 02:14:45 Score: 0.6249, Tweet: @patrickc @tesla great work with stripe btw. much needed.
+2019-04-07 21:19:53 Score: 0.5106, Tweet: @jfinkelstein it will enable video when parked &amp; connected to wifi. all tesla superchargers will have free wifi over time.
+2019-04-13 17:27:58 Score: 0.5574, Tweet: please note that the price of the tesla full self-driving option will increase substantially over time
+2019-04-14 18:18:53 Score: 0.5267, Tweet: @teslarati poetic justice
+2019-04-14 20:08:13 Score: 0.6486, Tweet: @martinengwicht @knightmararchon @evbite @johnrobb @tesla @elonmuskscience iâve always thought that the fundamental good of tesla should be measured by the number of years by which it accelerates the transition to sustainable transport &amp; energy
+2019-04-14 20:32:17 Score: 0.7003, Tweet: @arctechinc @danahull @ginog01328427 @savis1949 @wsj @tesla @sec_enforcement haha true
+2019-04-21 00:38:02 Score: 0.5559, Tweet: "@flcnhvy @loadiabe86 @skabooshka @groggytbear @barkmsmeagol @fitzsimmonsk @dwildemuth @handytsla @teslabull @vw never seen anything like it. tesla is just trying to make electric cars &amp; solar power for a better future for all. true
+2019-04-23 05:37:56 Score: -0.6124, Tweet: @teslaownerssv @scottwww @valueanalyst1 @karpathy @tesla @nvidia weâll let the nn loose on track mode one day â¦ thatâll be insane
+2019-04-23 21:10:42 Score: -0.8074, Tweet: "those who predicted tesla &amp; evs would be dead &amp; autonomy would never happen are same people attacking tesla today for 6-12 month delays
+2019-04-26 17:05:04 Score: 0.807, Tweet: @insideevs great work by tesla china team &amp; supporting contractors!
+2019-04-27 05:13:40 Score: 0.6908, Tweet: @teslaownerssv @janeidyeve haha yes
+2019-04-28 22:23:27 Score: 0.6249, Tweet: "@redmor11 @pluginfud @joelsapp @rrosenbl @tesla nvidia is a great company
+2019-04-29 23:25:27 Score: 0.5719, Tweet: @hamids @tesla excellent analysis
+2019-05-04 17:52:29 Score: 0.7345, Tweet: @mrtommycampbell @tesla youâre welcome. thanks for buying a tesla!
+2019-05-10 04:21:23 Score: -0.5267, Tweet: .@cgpgrey drives a tesla across the loneliest road in america {url}
+2019-05-12 03:33:31 Score: 0.7778, Tweet: @johnsontoddr4 @gorosart completely agree. every tesla should have good art &amp; music creation software.
+2019-05-29 22:18:48 Score: -0.5719, Tweet: @everman @andykiersz i paid most of my tesla-related expenses too. tesla last year was actually net negative comp for me.
+2019-05-30 14:13:22 Score: 0.6124, Tweet: @anthonyfinno @robertohaver @tesla tesla is affecting powerful vested interests. big auto &amp; oil companies arenât known for their gentle behavior. spacex is battling us military prime contractors &amp; space programs of national govts. no walk in the park there.
+2019-06-13 06:17:38 Score: 0.7269, Tweet: @rpmtesla would be good to look up electricity rates by location &amp; optimize cost automatically
+2019-06-15 00:38:41 Score: 0.7902, Tweet: @mikeammo rwd with all-weather tires works great. tesla traction control is an order of magnitude more precise than gas/diesel. really helps to have newton &amp; maxwell on your side.
+2019-06-21 18:03:31 Score: 0.7263, Tweet: @tmornini @tesla tesla is putting significant resources into high-efficiency battery recycling. makes both environmental &amp; economic sense. please consider joining if interested in recycling engineering!
+2019-06-28 19:43:36 Score: 0.6705, Tweet: @eforelectric @tesla sure. want to add easy import/export of images from your phone.
+2019-06-28 19:44:25 Score: 0.5106, Tweet: "@tesla fun
+2019-06-29 19:01:03 Score: 0.8715, Tweet: huge thanks to all tesla supporters around the world helping the cause. we â¥ï¸â¥ï¸â¥ï¸ you!!
+2019-07-02 20:22:58 Score: 0.8118, Tweet: congratulations tesla team &amp; thanks to all the new tesla owners!! â¥ï¸â¥ï¸
+2019-07-03 22:28:34 Score: 0.6249, Tweet: reason for top rating is that active steering &amp; braking safety features of tesla autopilot are turned on no cost for all cars {url}
+2019-07-03 23:17:51 Score: 0.8126, Tweet: "@rec1pr0city active safety will continue to improve via over-the-air software updates. since all tesla cars are connected
+2019-07-08 19:59:51 Score: -0.5994, Tweet: @dmc_ryan @tesla no problem
+2019-07-08 22:12:22 Score: 0.5859, Tweet: @michellbasler @dmc_ryan @tesla this shampoo sounds amazing
+2019-07-09 19:18:29 Score: 0.6808, Tweet: @kvlly would be cool if car took you to a random fun place traveled to by other tesla owners in the area
+2019-07-11 17:31:47 Score: 0.8309, Tweet: "motor trend awards tesla model s best car of the year ever in their 70 year history!!
+2019-07-12 05:18:05 Score: 0.6249, Tweet: @evafoxu @tesla great team
+2019-07-13 18:43:11 Score: -0.5678, Tweet: @patricklac007 @angelgponce @tesla parking lots are a remarkably hard problem. doing an in-depth engineering review of enhanced summon later today.
+2019-07-13 18:44:49 Score: 0.6908, Tweet: @patricklac007 @angelgponce @tesla good progress on fast activation of summon down to ~1 second
+2019-07-13 19:06:56 Score: 0.6908, Tweet: @annerajb @kristennetten @flcnhvy @erdayastronaut @patricklac007 @angelgponce @tesla haha yes
+2019-07-18 21:18:01 Score: -0.7003, Tweet: "@hypercharts @elonsworld @tesla exactly. trendline that includes autopilot always-on accident avoidance features matches curve of autopilot software/hardware releases
+2019-08-04 22:42:23 Score: 0.7339, Tweet: "lyft/uber/taxi drivers are expert tesla advocates. thanks for your support!!
+2019-08-08 19:01:34 Score: 0.5574, Tweet: "@brunosilva @vincent13031925 @residentsponge @teslarati @tesla weâre working with eu regulators to improve rules. spirit of rules is correct
+2019-08-09 07:51:54 Score: 0.6239, Tweet: @heymarkl video is amazing with the tesla sound system. will include caraoke!
+2019-08-11 19:33:18 Score: 0.6249, Tweet: "watching a movie on tesla v10.0 is great
+2019-08-20 17:45:11 Score: 0.8777, Tweet: @teslarati looking forward to seeing giga shanghai soon ð amazing work by tesla china team &amp; support of authorities much appreciated!
+2019-08-27 07:32:46 Score: 0.5093, Tweet: @teslarati impressively accurate analysis!
+2019-09-10 08:06:59 Score: 0.5423, Tweet: @memesofmars @teslarati the mechanical attachment mechanism. we need to make sure they wonât fall off due to vibration &amp; acoustics.
+2019-09-15 19:02:31 Score: 0.5399, Tweet: thanks tesla owners. you rock!! â¥ï¸â¥ï¸
+2019-09-16 16:50:32 Score: 0.6588, Tweet: @sofiaan @kristennetten @evafoxu @justpaulinelol @teslaownerssv @model3owners great conversation-starter!
+2019-09-16 17:36:58 Score: 0.8016, Tweet: "@teslarati feeling lucky (google tribute!) or hungry are 100% intended for max enjoyment of tesla owner. if location has destination chargers
+2019-09-17 16:39:00 Score: 0.6696, Tweet: @tfm312 @tesla glad youâre ok!
+2019-09-24 19:56:14 Score: 0.9042, Tweet: "@teslarati this includes original engineering of new factory processes &amp; cars. great engineers will only join if original engineering is supported
+2019-09-26 03:29:28 Score: 0.7644, Tweet: @teslatunity @tesla youâre welcome! feature requests always appreciated.
+2019-09-28 18:29:49 Score: 0.5267, Tweet: "@tesla_truth @nrf_designs weâre going to use the pedestrian pink noise speaker to talk to people &amp; create customized horn sounds. âi beg your pardon
+2019-10-09 18:53:01 Score: -0.6249, Tweet: @teslarati weâre changing powerwall storm watch to disaster watch. covers more bases.
+2019-10-10 16:09:52 Score: 0.6124, Tweet: @gfilche @tesla fundamental metric of good of tesla is how many years sooner it brings the advent of a sustainable energy future
+2019-10-12 20:37:58 Score: 0.7717, Tweet: @macwars fair point. will hold on eu price change until tesla gets clarity from regulators about smart summon feature release date.
+2019-10-15 22:11:33 Score: 0.5859, Tweet: @erdayastronaut tesla team has done an incredible job with giga shanghai. honored to work with them. iâm in awe.
+2019-10-15 22:19:33 Score: 0.5848, Tweet: anyone whoâs interested in working on cutting edge manufacturing â designing &amp; building the machine that makes the machine â please consider working at tesla or spacex. weâre gonna take this to a whole new level!
+2019-10-16 19:30:27 Score: 0.9081, Tweet: tesla wins best headlights award ð¥ {url}
+2019-10-23 16:02:02 Score: 0.6597, Tweet: @teslatino please lmk about your experience and what can be improved
+2019-10-23 21:14:35 Score: 0.9582, Tweet: super proud of tesla team for great execution &amp; support of tesla customers greatly appreciated!!
+2019-10-27 21:08:44 Score: 0.7291, Tweet: @tesletter thanks to everyone at tesla who worked so hard over the years to make our fremont factory successful!
+2019-10-28 21:34:58 Score: -0.6249, Tweet: "@jon4lakers @tesla weâre changing this from storm watch to disaster watch to cover fires
+2019-11-08 00:15:14 Score: 0.7813, Tweet: "@leo_cadle @teslaownerssv @flcnhvy exactly! itâs also a far more exciting &amp; inspiring future if consciousness is out there among the stars
+2019-11-13 02:37:20 Score: 0.906, Tweet: congrats to tesla team on model 3 winning best midsize car in germany! ð©ðªð©ðªð©ðª {url}
+2019-11-20 19:32:11 Score: -0.8689, Tweet: "@teslatested so many reporters gave chanos airtime when he called tesla a worthless fraud. now that he has been proven wrong
+2019-11-21 21:16:33 Score: 0.7424, Tweet: @willfealey @tesla fun party guaranteed!
+2019-12-07 23:45:01 Score: -0.5423, Tweet: @real_john_d @teslarati @tesla_raj there will be no loss of either
+2019-12-08 00:01:52 Score: 0.5411, Tweet: "@teslaownerssv weâll aim to have it come out same time as truck. two seater electric atv designed to work with cybertruck will be fun! electric dirt bikes would be cool too. we wonât do road bikes
+2019-12-18 22:06:09 Score: 0.6395, Tweet: @tesletter @teslaownerssv i think we can improve that with a little software optimization
+2019-12-19 08:36:51 Score: -0.6549, Tweet: "@teslainventory @teslaownerssv this is quite a thorny hardware problem
+2019-12-21 19:32:55 Score: 0.5551, Tweet: @dealer_of_happy @tesla weâre working on moving more cars to florida. end of year delivery is intense! very proud of tesla team for all their hard work.
+2019-12-22 19:26:55 Score: -0.5574, Tweet: "if tesla &amp; spacex go bankrupt
+2019-12-22 19:56:53 Score: 0.5423, Tweet: @flcnhvy @cgpgrey @thirdrowtesla ok sure
+2019-12-26 18:40:11 Score: 0.5423, Tweet: "@teslaownerssv @tesla_unplugged @teslaownersofma @tesla @disneyplus @bensullins merry christmas ððð
+2019-12-26 20:16:36 Score: 0.5574, Tweet: @flcnhvy @sofiaan @erdayastronaut the overarching goal of tesla engineering is maximize area under user happiness curve
+2019-12-29 07:58:44 Score: 0.8126, Tweet: @smzgallagher @tesla sorry about this. we will do our best. the tesla production &amp; delivery teams have been working super hard.
+2019-12-29 11:10:56 Score: 0.8313, Tweet: @snipergen @tesla sure. trax will get much better &amp; more fun. this is an alpha version.
+2019-12-29 22:36:55 Score: 0.8971, Tweet: @teslaownersofma @johnnacrider1 @vincent13031925 @boringcompany what is the platonic ideal of the perfect candy? really feels like candy r&amp;d hasnât improved in ages. damn candy oligarchs!! [shakes fist at sky]
+2019-12-30 01:33:34 Score: 0.5106, Tweet: "@teslaownerssv @iam_preethi i def believe in the ethical treatment of animals &amp; taking action of climate
+2019-12-30 03:16:24 Score: 0.658, Tweet: @vincent13031925 @tesla @jsrdctz amazing work by tesla china team!! â¤ï¸â¤ï¸
+2019-12-30 07:48:20 Score: 0.6369, Tweet: "@teslagong @briangilbert_ @tesla @austeslaowners tesla merch def needs some love
+2019-12-31 02:28:28 Score: 0.6588, Tweet: @teslaownerssv @rhoehn thanks all tesla club members for helping out! looking forward to seeing you there tomorrow. â¤ï¸
+2020-01-01 06:51:06 Score: 0.8713, Tweet: congratulations tesla &amp; spacex on great 2019! you rock!! looking forward to epic 2020 â¥ï¸ðð°ðâï¸
+2020-01-15 17:10:01 Score: 0.6486, Tweet: @nntaleb just saw this today. tesla refunds in general should be easy to get electronically &amp; certainly through customer service. will he addressed.
+2020-01-21 16:25:06 Score: 0.6588, Tweet: @flcnhvy @thirdrowtesla @gfilche @sofiaan @kristennetten @vincent13031925 great talking with @thirdrowtesla!
+2020-01-21 17:08:24 Score: 0.8319, Tweet: @vm_one1 @exhaustedpengu1 @rationaletienne would like to take a moment to thank michael &amp; zeâev for helping tesla. it was very hard work &amp; both couldâve just rested on their laurels. much appreciated ð».
+2020-01-25 05:18:04 Score: 0.6588, Tweet: "@evafoxu @tesla sounds like we need to clear up a few things! tesla wonât use this much net water on a daily basis. itâs possibly a rare peak usage case
+2020-01-25 05:32:10 Score: 0.6705, Tweet: "@ihearttesla @evafoxu @tesla for sure. giga berlin will build sustainable energy vehicles using sustainable energy
+2020-02-02 21:49:53 Score: 0.802, Tweet: tesla will hold a super fun ai party/hackathon at my house with the tesla ai/autopilot team in about four weeks. invitations going out soon.
+2020-02-02 21:58:20 Score: 0.9201, Tweet: @samtalkstesla a phd is definitely not required. all that matters is a deep understanding of ai &amp; ability to implement nns in a way that is actually useful (latter point is whatâs truly hard). donât care if you even graduated high school.
+2020-02-03 06:31:39 Score: 0.5423, Tweet: "@flcnhvy @tesla @thirdrowtesla ok sure ð btw
+2020-02-08 02:46:31 Score: 0.7003, Tweet: @rationaletienne @tesla @kimbal haha true
+2020-02-10 05:38:25 Score: 0.8777, Tweet: @samtalkstesla your comment above: âwho in their right mind would buy an ice after 2025 knowing its residual value will be zilch? legacy auto: go ev or go bust!â is super important for car buyers. residual values for gas/diesel cars will plummet in coming years.
+2020-02-10 17:26:09 Score: 0.7088, Tweet: please let us know what improvements we can make to any aspect of tesla solarglass roof! critical feedback is much appreciated.
+2020-02-10 17:42:25 Score: 0.8625, Tweet: should preface this saying that feedback from early tesla solar roof owners has been v positive. itâs stunning vs a regular roof in person imo. photos donât do it justice.
+2020-02-15 04:15:45 Score: 0.5563, Tweet: @teslaownerssv @fermatslibrary a=f/m is the most fun
+2020-02-21 19:49:55 Score: 0.6597, Tweet: @teslarati active ride height &amp; active damping are game-changing for a truck or any car with a high max/min weight ratio
+2020-02-22 21:40:50 Score: 0.8012, Tweet: getting there was super hard. very proud of tesla team!
+2020-02-26 16:53:19 Score: 0.6753, Tweet: @janeidyeve @jakethehuman28 @tesla_truth @twitter posting spacex videos is definitely not copyright infringement!
+2020-03-04 18:24:42 Score: 0.8885, Tweet: @justpaulinelol @erdayastronaut @sofiaan @tesla weâre making progress. improved rules are going through the eu standards committees. hopefully better in a few months.
+2020-03-10 02:33:21 Score: 0.5994, Tweet: "congratulations tesla team on making our 1
+2020-03-10 05:30:52 Score: 0.7003, Tweet: @thirdrowtesla haha true
+2020-03-15 03:03:44 Score: 0.636, Tweet: @tesla congratulations giga ny team!
+2020-03-22 20:47:48 Score: 0.5095, Tweet: @nativecacv @tesla @omead_a youâre most welcome. weâre working on getting other types of ppe too. ventilators should arrive within a few days.
+2020-03-23 01:18:52 Score: 0.6808, Tweet: @kristennetten @thirdrowtesla @salehcu yeah. we have a mask shipment stuck at lax. hopefully freed up soon.
+2020-03-23 23:20:19 Score: 0.6369, Tweet: @teslarati model y heat pump is some of the best engineering iâve seen in a while. team did next-level work.
+2020-03-24 00:32:14 Score: 0.8519, Tweet: "@stephenpallotta @ajtourville @teslarati sure would love to do home hvac thatâs quiet &amp; efficient
+2020-03-25 18:29:46 Score: 0.7096, Tweet: @flcnhvy @tesla making good progress. we will do whatever is needed to help in these difficult times.
+2020-03-25 19:18:31 Score: 0.5574, Tweet: @ppathole @flcnhvy @tesla c19 testing in the us over the past week has grown much faster than c19 positive cases. i think we may have passed the inflection point for us cases (excluding ny) already.
+2020-03-25 19:42:51 Score: -0.6378, Tweet: @enscand @ppathole @flcnhvy @tesla something weird happened at cdc yesterday. they changed the graph to include âestimated illness onset dateâ. this is a significantly less rigorous standard. {url}
+2020-03-27 15:14:39 Score: 0.9197, Tweet: @nycmayor youâre most welcome. credit to the tesla team. will do our best to help in any way.
+2020-03-31 15:28:02 Score: 0.5106, Tweet: "we have extra fda-approved ventilators. will ship to hospitals worldwide within tesla delivery regions. device &amp; shipping cost are free. only requirement is that the vents are needed immediately for patients
+2020-03-31 19:08:54 Score: 0.7777, Tweet: @nychealthsystem @tesla happy we could be helpful! more available if needed.
+2020-04-02 19:52:50 Score: -0.7351, Tweet: "@28delayslater @thirdrowtesla invasive ventilators are for worst case patients. survival rate at that point is low
+2020-04-02 20:24:14 Score: -0.7845, Tweet: @28delayslater @thirdrowtesla weird that so many troll/bot accounts were activated to attack on this fake issue. wonder whoâs behind it.
+2020-04-03 22:44:49 Score: 0.7082, Tweet: @brandonbernicky @thirdrowtesla hoping to roll out traffic lights &amp; stops to wide us release in a few weeks &amp; probably ww release in q3 (so many variations in each country!). very important to make sure this is done right.
+2020-04-04 03:26:01 Score: -0.6249, Tweet: @28delayslater @thirdrowtesla first medtronic units from tesla getting installed in ny metro area. these are for worst case situations. {url}
+2020-04-04 17:21:32 Score: 0.5093, Tweet: @nychealthsystem @tesla youâre welcome!
+2020-04-05 23:47:57 Score: 0.6696, Tweet: @bramjan75663351 @flcnhvy @tesla love that gen shinseki quote!
+2020-04-06 04:50:02 Score: 0.5859, Tweet: @facts_tesla amazing ð¤£ð¤£
+2020-04-09 06:58:15 Score: -0.5423, Tweet: @chrisamirr @ppathole @bryanmacksc @rationaletienne @thirdrowtesla @sofiaan @icannot_enough @hein_the_slayer @rmattila74 @28delayslater @kimbal @mowo91 @kristennetten @vincent13031925 all input is error. when is the fan speed wrong?
+2020-04-09 15:40:57 Score: 0.5093, Tweet: @mountsinainyc @tesla youâre welcome!
+2020-04-10 23:17:46 Score: -0.6597, Tweet: @samtalkstesla @cleantechnica ð¯ tragedy
+2020-04-11 07:13:23 Score: 0.7269, Tweet: @abiyahmedali @tesla good talking to you too. it was an honor.
+2020-04-12 05:39:20 Score: 0.7184, Tweet: @ppathole @livingtesla @tesla functionality still looking good for this year. regulatory approval is the big unknown.
+2020-04-16 03:33:49 Score: 0.6705, Tweet: @rationaletienne @ppathole @fat__tire @kristennetten @robotbeat @ghotiing @cruizvinicius @josh119872 @sweetinxs @votelabonte @erdayastronaut @tesla does seem that early use is wise. solving late stage c19 probably requires two or three mechanisms of action.
+2020-04-16 06:02:24 Score: 0.5859, Tweet: "@teslaownerssv @flcnhvy @dschless @bob_wachter a mask or nose âventilatorâ with moderately increased oxygen % will help. this is common in hospitals. intubation
+2020-04-18 03:04:22 Score: 0.6249, Tweet: "@teslagong @vincent13031925 @flcnhvy good point. yeah
+2020-04-19 00:48:56 Score: 0.6249, Tweet: @rationaletienne @teslaownerssv @erdayastronaut great platform ð¤£ð¤£
+2020-04-22 08:13:13 Score: 0.6996, Tweet: @thirdrowtesla @mfrunker thanks! we are taking some key steps to reduce satellite brightness btw. should be much less noticeable during orbit raise by changing solar panel angle &amp; all sats get sunshades starting with launch 9.
+2020-04-24 00:31:31 Score: 0.7959, Tweet: welcome @hiromichimizuno to the tesla board! honored to have you.
+2020-04-25 04:21:51 Score: 0.6908, Tweet: @cleantechnica many talented engineers are working on fsd at tesla. what matters is solving vision at high frame rate in our compute space with low latency between camera frame &amp; actuation.
+2020-04-25 04:27:16 Score: 0.6908, Tweet: @jgrano305 @thirdrowtesla @cleantechnica progress is good
+2020-04-25 13:34:39 Score: 0.5574, Tweet: @samtalkstesla @28delayslater @justpaulinelol romance mode ð¥ {url}
+2020-05-03 08:04:50 Score: 0.9143, Tweet: anyone think they can get a good multiplayer minecraft working on teslas? or maybe create a game that interacts virtually with reality like pokã©mon go while driving safely? like a complex version of pac-man or mario kart?
+2020-05-05 06:07:19 Score: 0.836, Tweet: @jason @teslagong @ppathole @priscillabanana thanks :) never too young for some ink haha
+2020-05-07 00:05:15 Score: 0.5267, Tweet: @ppathole @inspacexitrust @space_station @tesla @spacex @commercial_crew 2008 was a super tough year on all levels
+2020-05-07 00:44:34 Score: 0.6249, Tweet: @thirdrowtesla his son sounds great btw
+2020-05-07 08:39:27 Score: -0.5994, Tweet: "@flcnhvy @thirdrowtesla @yoavoffek roundabouts no problem
+2020-05-07 21:42:45 Score: 0.6486, Tweet: @johnnaaaaaaaaaa @evafoxu @tesla sure :)
+2020-05-08 06:34:46 Score: -0.6597, Tweet: "@johnnaaaaaaaaaa @kristennetten @thirdrowtesla @mayemusk operating on a prime directive of crash avoidance
+2020-05-09 22:44:26 Score: 0.5106, Tweet: "@adrianfine @tesla @cityofpaloalto much appreciated
+2020-05-11 00:08:44 Score: 0.6369, Tweet: @thirdrowtesla this thread summarizes situation perfectly
+2020-05-11 04:07:26 Score: 0.8436, Tweet: thanks for the cool suggestions ðâ¤ï¸ð more fun coming to your tesla soon!
+2020-05-11 17:33:53 Score: 0.5106, Tweet: @hidalgocounty @judgecortez @govabbott @tesla @john_jwitt note is much appreciated
+2020-05-12 08:45:45 Score: 0.5562, Tweet: @teslaownerssv much appreciated!
+2020-05-15 01:23:41 Score: -0.8126, Tweet: @flcnhvy absolutely. tesla already went through this in china with 7000 employees. zero fatalities or serious illnesses.
+2020-05-15 01:29:40 Score: 0.8996, Tweet: @flcnhvy tesla makes the safest cars in the world &amp; our factory injury rate is better than industry avg &amp; tracking to be better than any auto plant in north america. we care deeply about safety at a fundamental level.
+2020-05-26 18:41:50 Score: 0.7003, Tweet: @samtalkstesla @rationaletienne @thirdrowtesla @wholemarslog @28delayslater @vincent13031925 @teslaownerssv haha true
+2020-06-10 14:01:33 Score: -0.9475, Tweet: "@gerberkawasaki @tesla (formerly) mainstream media has systemic negative &amp; political bias about almost everything. reading major newspapers makes you feel sad &amp; angry. thatâs why theyâre being crushed by @joerogan. likes/retweets of old media are extremely low. ironic article:
+2020-06-10 19:07:53 Score: 0.8176, Tweet: tesla factory workplace safety is 5% better than industry average for manufacturers &amp; improving fast {url}
+2020-06-21 02:04:37 Score: 0.8016, Tweet: @vincent13031925 @teslacn we are putting a lot of effort into improving the tesla china experience with local engineering &amp; great feedback from tesla owners in china!
+2020-06-21 03:56:16 Score: 0.5106, Tweet: "@mattie_rogers @aikatchu @tesla we could probably make a fun punch (click) buggy game
+2020-06-25 02:58:55 Score: 0.6808, Tweet: special thanks to tesla trucking &amp; rail partners for figuratively &amp; literally going the extra mile
+2020-06-25 18:24:32 Score: 0.6705, Tweet: @blue_bnd @tomabbotdavies1 @tesla @thirdrowtesla @teslaownerssv @teslapodcast @teslaownersww @teslaownersuk @model3owners looks pretty cool
+2020-06-25 23:01:42 Score: 0.6369, Tweet: @lulusdave @tesla glad youâre ok
+2020-06-26 17:22:07 Score: 0.6996, Tweet: @vincent13031925 @teslaroadtrip glad you like it!
+2020-06-26 20:43:07 Score: 0.6249, Tweet: @samtalkstesla jay is awesome
+2020-07-01 22:13:36 Score: 0.5859, Tweet: "@govstitt @tesla wow
+2020-07-01 22:23:35 Score: 0.6696, Tweet: @mojosusan @govstitt @tesla i love texas! starship production complex is in boca chica &amp; spacex engine development has been in mcgregor for almost 18 years.
+2020-07-02 18:41:47 Score: 0.7579, Tweet: tesla will make fabulous short shorts in radiant red satin with gold trim
+2020-07-02 20:07:28 Score: 0.955, Tweet: thanks tesla owners &amp; investors! love you!! we will work super hard to earn your trust &amp; support.
+2020-07-03 23:28:13 Score: -0.8834, Tweet: @teslatested @teslaownerssv @kimbal thereâs that too. deaths should be broken out as died with vs died of.
+2020-07-04 04:47:58 Score: 0.6103, Tweet: congrats tesla team â u rok!!
+2020-07-04 07:39:21 Score: 0.5423, Tweet: "@ppathole @samtalkstesla yes. green card (permanent residency) is fine too for spacex
+2020-07-05 20:51:59 Score: 0.6486, Tweet: @teslaownerssv @flcnhvy sure :)
+2020-07-07 20:21:28 Score: 0.6486, Tweet: "@valleyhack essentially. long-term purpose of my tesla stock is to help make life multiplanetary to ensure itâs continuance. the massive capital needs are in 10 to 20 years. by then
+2020-07-08 23:14:09 Score: 0.6588, Tweet: @vincent13031925 @teslacn @evafoxu tesla china team is awesome!
+2020-07-10 18:01:42 Score: 0.8316, Tweet: @thatt3slaguy @flcnhvy @ppathole @ihearttesla earning power post augmentation would easily pay for itself (if thatâs even necessary). this is the best thing i can think of to ensure that collective human will decides the future.
+2020-07-10 18:47:46 Score: -0.7351, Tweet: @rationaletienne @flcnhvy @ppathole @ihearttesla death is the loss of information
+2020-07-13 01:51:31 Score: -0.7088, Tweet: @mightytesla @samtalkstesla @elonsworld @nikola_truth @wholemarsblog @renatakonkoly @stevenmarkryan @vincent13031925 @hyperchangetv @teslapodcast hell of a ride!
+2020-07-13 02:20:54 Score: 0.5413, Tweet: "@jgrano305 @teslaratiteam @teslarati doing range testing now. number will be significantly higher than 300. extremely good for any ev
+2020-07-14 01:11:26 Score: 0.5859, Tweet: @davidtayar5 @teslalisa @stevehamel16 @vincent13031925 @s_padival @barkmsmeagol @annerajb @pjhornak @wpipperger @ecoheliguy wow
+2020-07-15 01:55:41 Score: 0.6249, Tweet: @gerberkawasaki great work by tesla software engineering
+2020-07-24 02:15:28 Score: 0.6588, Tweet: @teslaownerssv @cleantechnica thatâs a great idea!
+2020-07-26 02:02:37 Score: 0.6981, Tweet: @iliketeslas @pjhornak @randyvegetables i know! congratulations to the people of bolivia ð§ð´!!
+2020-07-27 02:32:23 Score: 0.5093, Tweet: @samtalkstesla thatâs me! haha
+2020-07-27 19:18:41 Score: 0.6249, Tweet: @teslarati sounds great
+2020-07-30 06:40:30 Score: 0.6705, Tweet: @wholemarsblog @ppathole yeah. display will also soon render teslas specifically as their model &amp; color instead of as a generic sedan/suv. has potential for a fun punch buggy sort of game.
+2020-08-07 02:42:09 Score: 0.6249, Tweet: @teslarati this is gonna be great
+2020-08-07 17:53:23 Score: -0.6908, Tweet: "@timothybuffett @teslarati apart from failing to quarantine elderly/at-risk people early (a mistake they recognize)
+2020-08-08 19:26:59 Score: 0.8126, Tweet: "@wr4nygov @berniesanders good analysis. he also includes a govt loan for high efficiency vehicles that tesla paid back with interest several years
+2020-08-11 01:30:45 Score: 0.5267, Tweet: @mark_goldberg_ @tesla note the fabulous plaid jacket &amp; gingham shirt combo ð¤£
+2020-08-11 22:20:28 Score: 0.8172, Tweet: @teslarati aiming to make it super fun!
+2020-08-14 19:00:14 Score: 0.891, Tweet: "@viktaur27 @teslarati the rate of improvement from original gpt to gpt-3 is impressive. if this rate of improvement continues
+2020-08-14 20:34:15 Score: 0.8016, Tweet: tesla is developing a nn training computer called dojo to process truly vast amounts of video data. itâs a beast! please consider joining our ai or computer/chip teams if this sounds interesting.
+2020-08-14 20:59:16 Score: 0.6908, Tweet: "@kristennetten @teslaownerssv @erdayastronaut also definitely coming haha. will only be on relatively recent cars
+2020-08-15 19:50:41 Score: 0.5719, Tweet: @icannot_enough @flcnhvy @tesla your insights over the years have been excellent. thatâs approximately right.
+2020-08-15 19:57:38 Score: -0.5267, Tweet: "@icannot_enough @flcnhvy @tesla autopilot was trapped in a local maximum
+2020-08-17 04:59:20 Score: -0.5255, Tweet: @ppathole the âearly investorâ part of tesla is wrong. that bs has been pushed by eberhard (worst person iâve ever worked with and thatâs saying something!) for years.
+2020-08-19 19:34:33 Score: -0.5994, Tweet: "@teslatested thatâs an error in canada. the lease payment is specifically lower than loan financing
+2020-08-20 19:12:02 Score: 0.5563, Tweet: more fun games coming soon to ur tesla
+2020-08-28 02:45:17 Score: 0.7845, Tweet: @gerberkawasaki @tesla thanks to a smart and hardworking team at tesla. these sure are wild times â¦
+2020-08-30 14:29:18 Score: 0.5574, Tweet: "@tlowdon @ethicalskeptic some of the tests we initially tried at tesla were ~50% false positive
+2020-08-30 18:22:39 Score: 0.6124, Tweet: "@samtalkstesla @teslarati if some company has solved a useful thing that we can just buy
+2020-09-02 23:47:27 Score: 0.743, Tweet: @stefantpeterson @tesla trust ur butt haha
+2020-09-10 03:13:44 Score: 0.7178, Tweet: @disruptresearch tesla r&amp;d productivity is exceptionally good due to the caliber of engineering talent
+2020-09-10 03:27:59 Score: 0.6369, Tweet: "@disruptresearch tesla is best understood as a collection of about a dozen startups
+2020-09-10 21:50:27 Score: 0.6981, Tweet: bitte arbeiten sie bei tesla giga berlin! es wird super spaã machen!!
+2020-09-15 00:43:48 Score: 0.6705, Tweet: @teslavibes couldnât agree more â major software improvements are already in place to extend its life &amp; more coming
+2020-09-19 17:03:50 Score: 0.6124, Tweet: @teslaownerssv @model3owners @trungtphan felt i had done enough on the internet (zip2 &amp; paypal) that my work would be useful to others. needed to get going on accelerating sustainable energy &amp; making life multiplanetary.
+2020-09-20 03:34:30 Score: 0.7717, Tweet: @savedtesla @peterdog15 shaped like a diamond &amp; aligned on true north
+2020-09-21 20:28:42 Score: 0.8375, Tweet: @singing__surfer iâm pretty sure tesla could do a much better autocorrect. the bar is so low haha.
+2020-09-26 19:45:56 Score: 0.807, Tweet: "thanks tesla team for great work on deliveries! for new owners
+2020-10-01 23:54:14 Score: 0.6369, Tweet: @officialalishap @flcnhvy @tesla glad to hear your mom is ok
+2020-10-02 18:11:23 Score: 0.6696, Tweet: @mike94160775 @tesla @electrekco @teslarati glad youâre ok!
+2020-10-07 15:32:48 Score: -0.7184, Tweet: @raytech247 @wholemarsblog even gm &amp; chrysler went bankrupt in 2009. ford and tesla are the only us car companies that have avoided bankruptcy.
+2020-10-07 16:11:04 Score: -0.743, Tweet: @tesladri @chananbos @raytech247 @wholemarsblog the crash absorption rails can be cut off &amp; replaced with a bolted part for collision repair
+2020-10-07 21:15:15 Score: 0.5709, Tweet: @ihearttesla @alex_avoigt @mike_zimon @wholemarsblog had the most amazing kebab ever just outside of tacheles. too bad that place got torn down. it was awesome.
+2020-10-07 21:23:13 Score: 0.8588, Tweet: @icannot_enough @teslatested autopilot team is making great progress. reality sure is complicated!
+2020-10-10 20:38:36 Score: 0.6588, Tweet: @teslarati great work by spacex valve engineering &amp; production!
+2020-10-11 20:34:17 Score: -0.5574, Tweet: "@enn_nafnlaus when eberhard was fired from the tesla ceo role in mid 2007 for providing false information to me &amp; the board
+2020-10-12 05:14:00 Score: 0.7345, Tweet: @ohiotesla @jendunlap_ @tesla @caranddriver @teslaownerssv @teslarati @electrekco glad jen is safe!
+2020-10-14 18:09:13 Score: 0.636, Tweet: @gem8mingen @tesla congratulations!
+2020-10-16 21:23:43 Score: 0.5859, Tweet: "@samtalkstesla wow
+2020-10-27 03:07:30 Score: 0.6588, Tweet: @hyperchangetv tesla team has done great work!
+2020-10-31 06:53:10 Score: 0.8955, Tweet: "@teslatino thanks to a great autopilot/ai team working super hard! 
+2020-11-01 22:21:01 Score: 0.8016, Tweet: @austinteslaclub @joetegtmeyer @peterdog15 @txterafactory @terafactorytx @lqdchkn @jd_average @eliburton_ tesla texas team is making great progress! giga texas factory will be an asskicker.
+2020-11-06 10:19:53 Score: 0.5859, Tweet: "@nereide maxwell was amazing. should have more recognition. tesla motors
+2020-11-09 15:40:20 Score: 0.807, Tweet: @teslaownerssv @tesla thanks to a lot of great autopilot/ai hardware &amp; software engineers at tesla!
+2020-11-10 16:13:59 Score: 0.802, Tweet: @teslany @tesla happy to see this :)
+2020-11-21 17:48:12 Score: 0.6249, Tweet: @heydave7 @philwhln tesla is a vehicle for creating &amp; producing many useful products
+2020-11-23 21:13:28 Score: 0.5859, Tweet: @vincent13031925 @tesla wow
+2020-11-24 02:31:47 Score: 0.5859, Tweet: @teslarati @teslaroadtrip fsd beta 5 coming out in a few days. improvement should be significant.
+2020-12-02 13:30:19 Score: 0.8658, Tweet: "@tesmanian_com award accepted on behalf of the great people at tesla
+2020-12-17 06:54:33 Score: 0.908, Tweet: "@teslaownerssv it will get absurdly good. tesla ai/autopilot engineering is awesome! thereâs some great ai out there
+2020-12-21 13:05:16 Score: 0.7035, Tweet: thanks to everyone who worked so hard to make tesla successful. my heart goes out to you.
+2020-12-26 17:49:14 Score: 0.6369, Tweet: @erdayastronaut @teslaownerssv haha ok
+2020-12-27 22:19:58 Score: 0.7345, Tweet: try playing polytopia in your tesla! great game. multiplayer online version coming soon.
+2020-12-29 22:17:14 Score: 0.5106, Tweet: all tesla cars delivered in the final three days of the year will get three months of the full self-driving option for free. delivery &amp; docs must be fully complete by midnight dec 31st.
+2021-01-02 03:21:48 Score: 0.5994, Tweet: "@comma_ai tesla full self-driving will work at a safety level well above that of the average driver this year
+2021-01-02 14:52:49 Score: 0.5697, Tweet: "so proud of the tesla team for achieving this major milestone! at the start of tesla
+2021-01-09 17:11:44 Score: 0.6369, Tweet: @tonychomrmagic @teslaenergy one of the best tesla solar roof installations
+2021-01-16 01:30:50 Score: 0.6249, Tweet: @dmc_ryan @tesla it will be awesome
+2021-01-21 21:01:16 Score: 0.6249, Tweet: "@elonsworld @tesla @spacex @neuralink @boringcompany @eashanmisra that would probably mean civilization is doing great
+2021-01-29 00:36:57 Score: 0.6369, Tweet: @teslaownerssv @gamespot buy &amp; hold companies that make goods &amp; produce services you love
+2021-02-11 20:42:50 Score: 0.8513, Tweet: @teslacn congratulations tesla china for amazing execution last year. now on to the next for even more!!
+2021-02-18 23:50:40 Score: 0.875, Tweet: @teslarati spacex in south texas &amp; tesla in central have been providing direct assistance where feasible (eg save cold turtles &amp; help power the water treatment plant). please let us know if we may be helpful in other ways.
+2021-03-14 14:01:29 Score: 0.6597, Tweet: "play your favorite song in a tesla &amp; turn the volume to 11
+2021-04-05 11:21:03 Score: 0.6588, Tweet: @teslarati @residentsponge great work by tesla team!
+2021-04-10 00:34:12 Score: 0.7901, Tweet: @teslaownerssv @neuralink turns out ð love video games &amp; snacks just like us!
+2021-04-10 08:33:35 Score: 0.6369, Tweet: @tesla_adri @wholemarsblog these things are best thought of as probabilities. there are 5 forward-facing cameras. it is highly likely that at least one of them will see multiple cars ahead.
+2021-04-14 21:58:08 Score: 0.923, Tweet: tesla ai/autopilot engineering is awesome! making excellent progress solving real-world ai.
+2021-04-14 23:22:29 Score: 0.5093, Tweet: @andyweedman @karpathy @dirtytesla stop â¦ in the name of love! {url}
+2021-04-17 04:52:09 Score: 0.7845, Tweet: @whatsupfranks great progress by tesla team
+2021-04-19 02:11:00 Score: 0.8883, Tweet: @teslaownerssv @spacex @nasa @considercosmos support for humanityâs future in space is super appreciated. letâs make the sci-fi future we want real!
+2021-04-29 01:03:04 Score: 0.5859, Tweet: "@teslaownerssv @teslany @tesla gating factor is achieving &amp; proving higher safety with pure vision than with vision+radar. we are almost there.
+2021-04-29 22:11:47 Score: 0.7906, Tweet: @adamcarter @teslaownerssv @teslany @tesla true. anyone paying attention to the rate of improvement will realize that tesla autopilot/fsd is already superhuman for highway driving &amp; swiftly getting there for city streets.
+2021-04-29 22:17:56 Score: 0.7255, Tweet: @teslaownerssv fsd display v9.0 will show actual probability distribution of objects â true mindâs eye of the neural net. this is so cool!
+2021-05-02 22:18:02 Score: 0.5574, Tweet: @heydave7 @tesla a remarkable junction in history
+2021-05-08 06:43:36 Score: 0.6249, Tweet: @ericrihlmann @tesla @nbcsnl @timessquarenyc @nycgov great pic
+2021-05-08 07:06:32 Score: 0.6908, Tweet: @ppathole @ericrihlmann @tesla @nbcsnl @timessquarenyc @nycgov it pretty much looks like this
+2021-05-20 20:14:36 Score: 0.6486, Tweet: @teslagong @wintonark bitcoin hashing (aka mining) energy usage is starting to exceed that of medium-sized countries. almost impossible for small hashers to succeed without those massive economies of scale.
+2021-05-21 01:32:56 Score: 0.7717, Tweet: "@btcsessions @teslagong @wintonark achieving truly decentralized finance â power to the people â is a noble &amp; important goal. 
+2021-05-21 01:41:10 Score: 0.7239, Tweet: @teslaownerssv this will actually be able to fly very briefly. i always laughed at flying cars &amp; now making one. fate ð¤ irony haha.
+2021-05-22 22:08:12 Score: 0.6369, Tweet: "@flcnhvy @thatdogegirl @whatsupfranks @teslagong becoming multiplanetary is one of the greatest filters. only now
+2021-05-27 21:33:40 Score: 0.6124, Tweet: "@model3owners tesla sure would appreciate changing the law
+2021-05-29 05:47:55 Score: 0.7003, Tweet: @owensparks_ @teslany actually true haha
+2021-06-02 12:00:04 Score: 0.6369, Tweet: "@teslaownerssv thanks :) seriously
+2021-06-09 17:42:41 Score: 0.6588, Tweet: @teslarati tesla europe team is doing great!
+2021-06-11 04:29:28 Score: 0.6588, Tweet: @lexfridman tesla engineering is awesome!
+2021-06-16 04:59:42 Score: 0.5165, Tweet: @rationaletienne @tesla_raj most people have no idea just how good the tesla air purification system is. literally 10x better than any other car.
+2021-06-16 09:09:15 Score: 0.6369, Tweet: @teslarati @13ericralph31 i love carbs
+2021-06-17 02:15:54 Score: 0.7579, Tweet: @dimazeniuk @tesla @wholemarsblog @dami_kolz @kristennetten @1stmarscolonist @melaniemadri @daelmor @rationaletienne @evafoxu @astrojordy @28delayslater it is an honor to work with such talented engineers
+2021-06-18 23:26:57 Score: 0.7351, Tweet: @udonandtempura @tesla haha pretty much
+2021-06-24 01:11:10 Score: 0.8814, Tweet: shout out to the awesome tesla global team. thanks for working so hard to make tesla successful!
+2021-07-02 13:10:28 Score: 0.5267, Tweet: "congrats tesla team on over 200
+2021-07-02 21:22:03 Score: 0.6249, Tweet: @24_7teslanews @teslaownerssv @felixschlang both great
+2021-07-05 11:01:16 Score: 0.6249, Tweet: @taiigerblue @tesla @omarsultan @pauljamil @wholemarsblog @slye @johnnacrider1 @teslaownerssv @tesla_raj @manic_marge itâs awesome
+2021-07-07 16:51:06 Score: 0.6588, Tweet: "@weddleandsons @tesla working with weddle and sons roofing has been a great collaboration for accelerating tesla solar roof installation! 
+2021-07-07 23:32:46 Score: 0.6124, Tweet: @ezebroni @tesla expect rapid improvement with pure vision
+2021-07-14 16:33:37 Score: -0.5093, Tweet: "@teslaownersebay @kristennetten @rationaletienne @evafoxu @johnnacrider1 @teslachillmode @codingmark @model3owners @wholemarsblog @austinteslaclub iâm trying to set a good example! population collapse is a much bigger problem than people realize and thatâs just for earth.
+2021-07-16 19:18:45 Score: 0.5994, Tweet: @teslarati improving permit approval speed &amp; lowering permit costs for solar would make a big difference
+2021-07-25 04:32:41 Score: 0.6239, Tweet: @valaafshar @tesla tesla giga shanghai team has done amazing work!
+2021-07-25 18:27:49 Score: 0.7579, Tweet: @teslarati @klenderjoey i was at giga texas yesterday. team is making excellent progress. building will be almost a mile long when complete.
+2021-07-25 18:49:58 Score: 0.68, Tweet: @teslarati @klenderjoey norway has played a major role in supporting advent of electric vehicles!
+2021-07-27 14:42:20 Score: 0.807, Tweet: @teslaownerssv @tesla great work by tesla giga berlin team &amp; supporting contractors!
+2021-07-27 18:01:22 Score: 0.836, Tweet: "@truth_tesla tesla software team is excellent even when compared to the best software companies. this is a big deal
+2021-07-27 18:10:50 Score: -0.5432, Tweet: "@dimazeniuk @truth_tesla thatâs a low bar. carmakers have never valued software engineering highly
+2021-07-29 04:52:25 Score: 0.8979, Tweet: @stevenmarkryan convincing the best ai talent to join tesla is the sole goal
+2021-07-31 20:19:09 Score: 0.7003, Tweet: @wholemarsblog the tesla ai predictions are swiftly becoming superhuman â its guesses for what it canât see well feel like esp. it has a vastly larger training set than any human &amp; thinks only about driving.
+2021-08-04 04:17:38 Score: 0.6369, Tweet: "@teslaownerssv @nasa i do love nasa
+2021-08-11 17:42:59 Score: 0.6249, Tweet: @teslarati @residentsponge itâs gonna be awesome
+2021-08-30 09:03:34 Score: 0.5423, Tweet: @truth_tesla @dougcoupland @grimezsz i added the archangel-12 part â¦ and obviously have a fondness for the letter x
+2021-08-31 07:15:06 Score: -0.6249, Tweet: "@ali_tesla585 @nykchannel this might be part of the problem: âgm is warning owners not to charge their bolts in or near their homes overnightâ 
+2021-09-01 18:40:05 Score: 0.6588, Tweet: "@kristennetten @stianwalgermo @tesla @arkinvest @wholemarsblog @alex_avoigt @teslarati @teslapodcast @mortenlund89 i was in the berlin paint shop talking to the team on my last visit. itâs gonna be great! 
+2021-09-03 01:39:50 Score: 0.5093, Tweet: @teslaownerssv and beta 10 is a step change improvement from what you have!
+2021-09-10 21:31:14 Score: 0.6249, Tweet: "@nuerburgring @tesla great work by tesla team
+2021-09-16 18:24:56 Score: 0.5574, Tweet: @teslaownerssv maneuverability is important for safety
+2021-09-19 14:39:33 Score: 0.7964, Tweet: @austinteslaclub @tesla @teslaownersebay @teslaownersuae @evafoxu @leastimalive @teslaownerssv @gailalfa1 @live_munro @owensparks_ so few products that you truly love ð
+2021-09-21 04:23:37 Score: 0.7184, Tweet: @teslaownersebay @teslagong @inspiration4x definitely upgraded toilets :) we had some challenges with it this flight.
+2021-10-02 17:59:50 Score: 0.5707, Tweet: â¥ï¸â¥ï¸ congrats tesla team! â¥ï¸â¥ï¸
+2021-10-02 20:07:37 Score: 0.5994, Tweet: @alex_avoigt manufacturing will be teslaâs long-term competitive strength
+2021-10-03 22:37:42 Score: 0.6239, Tweet: @stianwalgermo @tesla @wholemarsblog wow!
+2021-10-08 09:12:12 Score: 0.5719, Tweet: "if youâd like to join tesla ai
+2021-10-09 23:32:17 Score: -0.5267, Tweet: @sawyermerritt @austinteslaclub hell yeah
+2021-10-11 15:37:20 Score: 0.6597, Tweet: "@matty_mogul @tesla @karpathy just want to emphasize this is the work of hundreds of awesome engineers in both software &amp; hardware
+2021-10-22 15:34:21 Score: 0.6588, Tweet: @teslaownerssv @boringcompany itâs gonna be great!
+2021-10-24 18:56:51 Score: 0.6369, Tweet: @prothedoge lots of people i talked to on the production lines at tesla or building rockets at spacex own doge. they arenât financial experts or silicon valley technologists. thatâs why i decided to support doge â it felt like the peopleâs crypto.
+2021-10-25 20:10:51 Score: -0.5093, Tweet: "@teslarati @klenderjoey sorry to tesla beta users for the trouble! issue turned out to be power saving mode interacting with fsd. 
+2021-10-25 20:12:24 Score: 0.6908, Tweet: @teslarati @klenderjoey iâd like to express appreciation to tesla autopilot engineering &amp; qa for working round the clock all weekend to resolve the problem
+2021-10-26 12:35:44 Score: -0.5994, Tweet: "@ppathole @tesla reducing traffic fatalities by 90% seems likely
+2021-10-27 01:09:50 Score: 0.5859, Tweet: "@teslaownerssv wow
+2021-10-27 21:41:16 Score: 0.8442, Tweet: @tesla_raj you can also talk through the car speaker. great for practical jokes :)
+2021-10-28 15:53:53 Score: -0.5574, Tweet: @ecommerceshares the cemetery of automotive startups over the past century is very large &amp; will get larger. tesla &amp; ford are the only american car companies that havenât gone bankrupt.
+2021-11-02 01:49:32 Score: 0.5093, Tweet: "@teslaownerssv youâre welcome!
+2021-11-04 06:00:00 Score: 0.6486, Tweet: @teslaownerssv cool :)
+2021-11-06 01:33:56 Score: 0.784, Tweet: "@teslaownerssv haha true! the top alternate name
+2021-11-13 01:09:26 Score: -0.891, Tweet: "@teslaownerssv @samtwits he came damn close to killing tesla through a combination of bad management decisions
+2021-11-20 02:27:11 Score: 0.5106, Tweet: "@tesla_addicted one of the improvements to fsd vision involves training with actual photon counts
+2021-11-20 02:56:07 Score: 0.6369, Tweet: @teslarati @spacex @rdanglephoto i love these shots
+2021-11-24 16:43:20 Score: 0.5423, Tweet: "@teslarati @13ericralph31 earth has been and will be smashed super hard by meteors over time. not a question of if
+2021-11-25 23:26:17 Score: 0.7003, Tweet: @teslaownerssv haha true
+2021-11-25 23:27:22 Score: 0.6249, Tweet: "@teslaownerssv great
+2021-12-10 04:43:00 Score: 0.5859, Tweet: @sawyermerritt tesla china has done amazing work
+2021-12-16 01:57:28 Score: 0.5983, Tweet: @scottadamssays @johniadarola @senwarren i love dilbert! use it all the time to illustrate that weâre doing something wrong at tesla/spacex if it could be a dilbert cartoon irl. this happens more often than iâd like (sigh).
+2021-12-18 04:45:37 Score: 0.7184, Tweet: tesla fsd 10.8 plus holiday fun software release probably tuesday
+2021-12-19 22:54:50 Score: 0.6908, Tweet: @gailalfaratx @peterdog15 @tesla tesla will hold a giga texas grand opening party with factory tours for the community in early 2022
+2021-12-23 00:36:39 Score: 0.7424, Tweet: "lots of tesla cars to deliver before year end! your support in taking delivery is much appreciated. 
+2022-01-02 17:57:50 Score: 0.6588, Tweet: great work by tesla team worldwide!
+2022-01-08 18:39:55 Score: 0.6369, Tweet: "@blkmdl3 @tesla itâs our best car ever
+2022-01-19 01:39:56 Score: 0.7177, Tweet: @ppathole @tesla i was just there. good progress!
+2022-02-01 05:57:39 Score: 0.802, Tweet: "@wholemarsblog tesla has great respect for software engineering
+2022-02-06 00:28:58 Score: 0.674, Tweet: tesla model s &amp; x plaid are so fun!
+2022-02-13 01:11:42 Score: 0.5106, Tweet: @filasophical @teslahistorian the fun police made us do it (sigh)
+2022-02-14 18:01:54 Score: 0.5859, Tweet: "@teslapodcast wow
+2022-02-16 21:47:59 Score: -0.5423, Tweet: "@westcoastbill i was at a lunch with munger in 2009 where he told the whole table all the ways tesla would fail. 
+2022-02-17 02:48:36 Score: -0.5106, Tweet: @ppathole @tesla @spacex high pain threshold
+2022-03-02 03:06:18 Score: 0.6597, Tweet: "@teslaownerssv @wholemarsblog our primary challenge is affordability. creating an expensive truck is relatively easy. 
+2022-03-04 19:18:16 Score: -0.636, Tweet: @mlukbrandenburg @gigafactory_4 @gf4tesla @gruenheide4futr @stk_brandenburg ich mã¶chte mich recht herzlich bedanken. die zukunft ist sehr spannend! ð©ðª ð©ðª
+2022-03-04 21:41:29 Score: 0.8074, Tweet: @renatakonkoly @mlukbrandenburg @gigafactory_4 @gf4tesla @gruenheide4futr @stk_brandenburg haha sure :)
+2022-03-05 08:41:13 Score: 0.5994, Tweet: @teslaownerssv a beautiful home for life
+2022-03-06 04:39:57 Score: 0.7351, Tweet: even some of the best ai software engineers in the world donât realize how advanced tesla ai has become
+2022-03-14 00:49:43 Score: 0.6549, Tweet: @teslarati @writer_01001101 vector lanes is a particularly significant architectural improvement to tesla ai
+2022-03-17 06:57:51 Score: 0.7703, Tweet: "i have so much respect for the associates doing an honest dayâs work at tesla or spacex building &amp; servicing cars
+2022-03-20 17:26:04 Score: 0.6705, Tweet: @teslarati @residentsponge the six seat model x is best imo. there are times when i only want to offer that variant.
+2022-03-20 18:35:02 Score: 0.5994, Tweet: "@spideycyp_155 @ray4tesla @jchybow @nuovarealta @renatakonkoly @kristennetten @evafoxu @gailalfaratx @teslaownerssv @tesmanian_com @teslarati @teslectrics giga berlin-brandenburg will be covered with beautiful art
+2022-03-27 15:35:41 Score: 0.875, Tweet: @teslaownerssv this is pretty good. 10.12 will have major improvements for tricky unprotected lefts &amp; heavy traffic in general. weâre also making good progress with single stack.
+2022-04-02 16:09:47 Score: -0.6369, Tweet: "@sawyermerritt @tesla this was an *exceptionally* difficult quarter due to supply chain interruptions &amp; china zero covid policy.
+2022-04-07 08:05:56 Score: 0.5994, Tweet: @dburkland @tesla @gg4175 @teslachillmode @teslaownersebay @teslaownerssv @blkmdl3 @mfrunker the door wonât be super strict
+2022-04-08 10:51:44 Score: 0.6892, Tweet: "great work by tesla texas team!!
+2022-04-08 18:25:07 Score: 0.802, Tweet: @teslaownerssv master chief would love it haha
+2022-04-21 08:28:57 Score: -0.6124, Tweet: @teslaownerssv @woonomic @vaibhavsisinty eberhard has been relentlessly pushing a false narrative about tesla for 15 years. heâs a compelling liar. fooled me for almost 3 years.
+2022-04-21 08:34:10 Score: 0.8573, Tweet: "@teslaownerssv @woonomic @vaibhavsisinty but if he was actually capable of creating a company like tesla
+2022-04-21 09:33:39 Score: 0.5423, Tweet: @teslaownerssv @dimazeniuk @billhuang688 @woonomic @vaibhavsisinty ok sure
+2022-04-22 23:38:13 Score: -0.69, Tweet: @teslaownerssv @spacex the real tragedy is that tie iâm wearing!
+2022-04-24 14:26:01 Score: 0.7184, Tweet: (from making fun of gates for shorting tesla while claiming to support climate change action)
+2022-04-24 14:50:25 Score: -0.5893, Tweet: @teslajedi @teslarati @residentsponge drug naming conventions are so ridiculous! does someone just literally have a random syllable generator!?
+2022-04-25 13:34:50 Score: 0.6369, Tweet: @ppathole @tesla @spacex @neuralink @boringcompany i do love humanity
+2022-05-06 17:50:14 Score: 0.5994, Tweet: @teslarati @klenderjoey this will trend to well over 10 times safer
+2022-05-10 16:07:33 Score: 0.5859, Tweet: @tesmanian_com the tesla china team is amazing
+2022-05-24 22:18:58 Score: 0.6249, Tweet: "@teslatino @blkmdl3 haha agreed
+2022-05-26 19:19:00 Score: 0.5233, Tweet: @jayinshanghai i have so much respect for the tesla shanghai team
+2022-05-28 00:14:54 Score: 0.5106, Tweet: "@actbrigitte since gates still has a multi-billion dollar short position against tesla while claiming to help with global warming
+2022-06-04 05:56:21 Score: -0.8126, Tweet: "@teslaownerssv @long_elon my bro &amp; i had dinner at the el camino jack in the box almost every night around late 95. some people had died from food poisoning a few years earlier
+2022-06-09 16:25:37 Score: 0.6369, Tweet: @kchau @tesla @wholemarsblog @sawyermerritt glad theyâre ok
+2022-06-10 05:52:45 Score: -0.6249, Tweet: @teslaownerssv gas station lighting is brutal
+2022-06-15 07:44:12 Score: 0.8834, Tweet: @spideycyp_155 @teslaownerssv @thetexannews @mayraflores2022 iâm thinking of creating a âsuper moderate super pacâ that supports candidates with centrist views from all parties
+2022-06-20 17:55:19 Score: 0.802, Tweet: @teslaownerssv @spacex super talented team at spacex
+2022-06-20 21:09:04 Score: 0.6369, Tweet: "@teslaownerssv i love many cheeses
+2022-07-06 02:48:42 Score: 0.636, Tweet: @tesmanian_com zip around vegas super fast with teslas in tunnels!
+2022-07-07 22:03:54 Score: 0.8356, Tweet: super fired up for future product development with our awesome tesla team! such an honor to work with them.
+2022-07-13 21:31:40 Score: 0.75, Tweet: @karpathy thanks for everything you have done for tesla! it has been an honor working with you.
+2022-07-19 07:01:38 Score: 0.5848, Tweet: please vote your shares with tesla!
+2022-07-19 15:56:22 Score: 0.5707, Tweet: congrats to tesla fremont + giga nevada for making their 2 millionth car!
+2022-07-24 01:23:12 Score: 0.7269, Tweet: @teslaownerssv @icannot_enough @ajtourville should be a major improvement with respect to complex left turns
+2022-07-25 02:25:00 Score: -0.636, Tweet: "@heydave7 @wholemarsblog @wsj wsj has run so many bs hit pieces on me and tesla iâve lost count! itâs embarrassing for them
+2022-07-25 20:41:56 Score: 0.5106, Tweet: all teslas come with a free karaoke app {url}
+2022-07-29 00:23:53 Score: 0.6808, Tweet: @futurejurvetson @tesla @gjurvetson thanks for your support over the years
+2022-07-29 15:13:58 Score: 0.5423, Tweet: "@dirtytesla weâre working super hard on 10.13
+2022-08-11 03:38:12 Score: -0.5719, Tweet: @evafoxu @wisitlike @wholemarsblog @kristennetten @99brownkaryl @driveteslaca from real scam oâdowd
+2022-08-14 17:27:50 Score: 0.5707, Tweet: congrats giga shanghai on making millionth car! total teslas made now over 3m. {url}
+2022-08-15 23:34:24 Score: 0.8268, Tweet: @teslaownerssv yes. tesla autopilot/ai team is doing amazing work! 10.69 will be worth its name.
+2022-08-21 01:05:46 Score: 0.5719, Tweet: @aelluswamy worth hearing about tesla autopilot software/ai progress
+2022-08-21 12:42:06 Score: 0.6588, Tweet: "@blkmdl3 @tesla tesla autopilot/ai team did great work with 10.69! some point releases needed for polish
+2022-08-21 19:03:05 Score: 0.8678, Tweet: @chazman @aelluswamy just wanted to emphasize again that our awesome tesla software/ai team is who really deserves the credit. the talent level at tesla is incredible.
+2022-09-08 20:40:08 Score: 0.6696, Tweet: @tesla i love the graffiti art at giga berlin!
+2022-09-21 16:00:15 Score: 0.8519, Tweet: "@teslarati @klenderjoey ecological paradise plans from south portion of giga texas to river look great
+2022-09-21 16:05:36 Score: 0.6588, Tweet: @teslarati area from south giga to river really will be next-level great &amp; open to public!
+2022-09-23 04:20:01 Score: -0.5106, Tweet: @teslaownerssv @stevenmarkryan education is the path out of poverty and internet access enables education
+2022-09-30 22:04:36 Score: 0.6249, Tweet: "@teslaownerssv @tesla tesla team is awesome
+2022-10-03 08:08:32 Score: 0.636, Tweet: "@ppathole @tesla @spacex @neuralink @boringcompany iâm trying my hardest! perhaps more people might consider loving humanity. 
+2022-10-09 22:22:17 Score: 0.8122, Tweet: @teslarati strong candidate to win most counter-intuitive product of the year!
+2022-10-10 22:31:16 Score: 0.6249, Tweet: @teslarati @johnnacrider1 it was built &amp; paid for at my request. hunter &amp; team did great work.
+2022-10-12 21:20:16 Score: -0.5562, Tweet: @teslaownerssv the counter-intuitive thing is that itâs actually gonna be a sick product!
+2022-10-17 12:15:48 Score: 0.6808, Tweet: "@rhensing @keith_dorschner @teslaownerssv standard (non-performance) 3 &amp; y suspension in production now has improved comfort
+2022-10-18 00:28:18 Score: 0.7096, Tweet: @teslaaibot @spacex @tesla thanks optimus :)
+2022-10-19 18:14:39 Score: 0.6249, Tweet: @dirtytesla awesome
+2022-10-24 05:40:47 Score: 0.5095, Tweet: @fedorovmykhailo @teslarati @writer_01001101 youâre most welcome
+2022-11-10 06:52:26 Score: 0.6249, Tweet: @teslaconomics itâs awesome ð«
+2022-11-13 17:59:00 Score: 0.6486, Tweet: @jessica_kirsh @spacex @teslaaibot @tesla cool :)
+2022-11-20 22:31:51 Score: 0.6908, Tweet: @teslaownerssv @kcoleman making good progress. still tracking to wide release next month.
+2022-11-27 13:52:24 Score: 0.5719, Tweet: @samtwits artcenter college of design gave me an honorary degree for my work on the original tesla roadster
+2022-11-28 18:14:42 Score: -0.5267, Tweet: @techau are you suggesting apple would use its duopolist powers to hurt tesla?
+2022-11-30 20:54:34 Score: 0.5859, Tweet: "@teslaownerssv wow
+2022-12-13 19:02:12 Score: 0.6249, Tweet: "@wholemarsblog tesla will be great long-term
+2022-12-13 23:40:15 Score: 0.6486, Tweet: @wholemarsblog i will make sure tesla shareholders benefit from twitter long-term
+2022-12-22 18:38:21 Score: 0.6688, Tweet: congratulations tesla team!!
+2022-12-30 22:52:35 Score: 0.7003, Tweet: "@teslaownerssv itâs good to switch back &amp; forth. as we improve twitter ai
+2023-01-11 21:02:24 Score: 0.6588, Tweet: @sawyermerritt @tesla great work by tesla team!
+2023-01-18 20:20:00 Score: 0.6588, Tweet: great work by tesla team!
+2023-01-19 21:16:05 Score: -0.6436, Tweet: "@teslaownerssv @sjvtesla it is very difficult to stop bots &amp; trolls
+2023-01-20 04:55:20 Score: 0.7717, Tweet: @teslaownerssv the kind words are appreciated
+2023-01-22 19:58:28 Score: 0.5859, Tweet: "@cb_doge @tesla @mayemusk wow
+2023-01-26 03:05:55 Score: 0.5707, Tweet: congrats tesla california factory team on all-time record production! {url}
+2023-01-28 19:52:15 Score: 0.8221, Tweet: @goodfaithenergy congrats on a beautiful tesla solar roof installation!
+2023-01-28 19:52:40 Score: 0.6588, Tweet: @sawyermerritt @tesla @goodfaithenergy they did a great job!
+2023-01-30 16:58:38 Score: 0.5719, Tweet: @wr4nygov looks like tesla is doing ok
+2023-02-03 00:04:03 Score: 0.6249, Tweet: "@driveteslaca yeah. still many small tweaks to make it better (and the side mirrors are removable by owner)
+2023-02-03 17:05:18 Score: 0.763, Tweet: @cb_doge @mayemusk @tesla @twitter more to come on this front. twitter needs to be where a creator is most highly rewarded for their time &amp; talent.
+2023-02-05 23:15:53 Score: 0.7003, Tweet: "@driveteslaca * attempt to launch in march. success is far from certain
+2023-02-11 14:28:09 Score: 0.636, Tweet: @lucentenergy @teslasolarroof beautiful work!
+2023-02-11 22:20:45 Score: 0.6588, Tweet: @teslaownerssv great tesla solar roof install!
+2023-02-11 23:22:33 Score: 0.5719, Tweet: "@muskuniversity this is the fundamental reason why tesla was the first new american car company to reach sustained positive cash flow since chrysler ~100 years ago.
+2023-02-17 22:15:38 Score: 0.8163, Tweet: "@teslaownerssv @boo never seen anything so messed up. wish it wasnât. but weâre making good progress
+2023-02-18 17:53:56 Score: 0.8258, Tweet: @teslaconomics my favorite video of starship so far! great shot when the flame points right at the camera.
+2023-02-21 20:39:26 Score: 0.7845, Tweet: @honestyhumility @teslaconomics this kid is definitely going to love trolling
+2023-02-23 02:30:23 Score: 0.8625, Tweet: @tesla definitely one of the best parties ever in palo alto
+2023-02-24 19:43:01 Score: -0.7717, Tweet: @teslaconomics death threats should result in immediate account suspension. lmk if thatâs not happening.
+2023-02-27 15:01:38 Score: 0.6588, Tweet: @tesla_europe great work!
+2023-03-01 00:14:28 Score: -0.541, Tweet: @teslaaibot photo filters are so misleading ð¤£ð¤£
+2023-03-12 04:12:27 Score: 0.6696, Tweet: "@mundfish @billym2k i sure hope tesla bots donât malfunction! 
+2023-03-14 04:57:16 Score: 0.5574, Tweet: @sawyermerritt that media report is false. relations between tesla and byd are positive.
+2023-03-25 20:54:43 Score: 0.6688, Tweet: big congratulations to the tesla germany team!!
+2023-03-29 07:16:58 Score: 0.6637, Tweet: @george__mack i thought both spacex and tesla each had less then a 10% chance of success
+2023-04-13 04:04:33 Score: 0.7574, Tweet: @hiromichimizuno @tesla thank you for your excellent contribution to tesla!
+2023-04-14 01:43:32 Score: 0.6124, Tweet: @fonsdk @wholemarsblog @jasondebolt @sawyermerritt @teslaownerssv @forwardcap @farzyness @garyblack00 reaching volume production &amp; achieving positive cash flow is insanely hard
+2023-04-14 06:45:59 Score: -0.6249, Tweet: @teslaownerssv the news tries to answer the question: whatâs the worst thing that happened on earth today? thatâs why itâs so misery-inducing.
+2023-04-18 02:44:04 Score: 0.6249, Tweet: @teslaownerssv this will be great. coming soon. maximum protection for users.
+2023-04-23 18:04:57 Score: -0.561, Tweet: "@teslaownerssv this really opens your eyes. if theyâre this wrong about tesla
+2023-04-24 23:05:01 Score: 0.5707, Tweet: @sawyermerritt @spacex @tesla yay!
+2023-05-08 17:45:31 Score: 0.5994, Tweet: "@teslasynopsis @tesla once fsd is super smooth (not just safe)
+2023-05-08 18:42:24 Score: 0.6808, Tweet: "@dirtytesla we always prioritize safety over smoothness. after we achieve a higher tier of safety
+2023-05-10 03:43:26 Score: 0.6688, Tweet: congratulations tesla texas team!!
+2023-05-11 09:17:44 Score: 0.6249, Tweet: "@sawyermerritt @tesla cathie is awesome
+2023-05-14 02:30:47 Score: 0.7901, Tweet: @evasteslasplaid good for him! stud at 79 wow.
+2023-05-17 17:44:06 Score: 0.5093, Tweet: @teslaconomics welcome back @jbstraubel!
+2023-05-17 19:26:18 Score: 0.8356, Tweet: @teslaconomics all real &amp; hot of the presses. tesla optimus team cranked super hard through the weekend to get it done. they are awesome!
+2023-06-01 17:57:16 Score: 0.7639, Tweet: congratulations to giga shanghai &amp; tesla china sds teams for their excellent work overcoming many obstacles over many years!! {url}
+2023-06-03 03:44:07 Score: 0.8176, Tweet: "@scobleizer tesla is prioritizing safety over comfort for fsd beta. as we become confident in the former
+2023-06-03 19:43:53 Score: 0.5707, Tweet: congrats tesla plaid racing team!
+2023-06-10 02:13:07 Score: 0.6249, Tweet: @dirtytesla @tesla roundabouts will get great soon
+2023-06-20 19:31:21 Score: 0.7964, Tweet: "@tim_zaman @itsclivetime super exciting work happening at tesla in ai software
+2023-06-21 23:27:27 Score: 0.5095, Tweet: @teslaownerssv i should clarify that dojo v1 is highly optimized for vast amounts of video training vs general purpose ai. dojo v2 will address these limitations.
+2023-06-22 01:49:20 Score: 0.6705, Tweet: @tesla_ai this is pretty cool. we can generate surround car video and command the car from text prompts.
+2023-06-28 18:06:58 Algorithm Id:(82b61d18f7cbb8430f8f11389eb3403f) completed in 58.05 seconds at 43k data points per second. Processing total of 2,488,137 data points.
