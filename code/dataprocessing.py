@@ -18,7 +18,13 @@ for i in range(0, len(df)):
 
 
 #Lagrer til ny csv
-df.to_csv('data/Tweets_Processed2.csv', index = False)
+df.to_csv('data/Tweets_Processed_12-17.csv', index = False)
+
+# Make all tweets lowercase and create a csv with all tweets that has "tesla" or "tsla" in it
+df["Tweet"] = df["Tweet"].str.lower()
+df = df[df["Tweet"].str.contains("tesla|tsla")]
+
+df.to_csv('data/Tweets_Processed_12-17_TSLA.csv', index = False)
 
 
 print(df.head())
