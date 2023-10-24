@@ -4,7 +4,6 @@ from AlgorithmImports import *
 from datetime import datetime, timedelta
 from nltk.sentiment import SentimentIntensityAnalyzer
 
-# Test 
 class MyAlgorithm(QCAlgorithm):
 
     def Initialize(self):

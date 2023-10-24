@@ -21,6 +21,7 @@ df['Datetime'] = pd.to_datetime(df['Datetime']).dt.strftime('%Y-%m-%d %H:%M:%S')
 df.to_csv('data/Tweets_Processed_10-23.csv', index = False)
 
 # Make all tweets lowercase and create a csv with all tweets that has "tesla" or "tsla" in it
+# Kan legge til synonymer for tesla og tsla. 
 df["Text"] = df["Text"].str.lower()
 df = df[df["Text"].str.contains("tesla|tsla")]
 
