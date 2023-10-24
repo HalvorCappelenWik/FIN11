@@ -8,40 +8,30 @@ class MyAlgorithm(QCAlgorithm):
 
     def Initialize(self):
             
-        #Start and end dates for backtest 
-        self.SetStartDate(2012, 11, 1)
-        self.SetEndDate(2017, 1, 1)
+        self.SetStartDate(2012, 11, 1) #First tweet 
+        self.SetEndDate(2017, 1, 1) #Last tweet
 
-        #Starting cash for backtest, i.e algoritmen starter med en portefølje på $100,000
-        self.SetCash(100000)
-
-        #Legger til TSLA stock til algoritmen
-        #Vi har "Resolution.Minute" -> Det betyr at vi får prisdata hvert minutt. Kan endre til tick/sec/minute/hour/day 
-        self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
-
-        #Vår egen data av tweets fra Elon Musk, Resulution.Minute (algoritme sjekker for data hvert miunutt)
-        self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol
-
-        #Går ut av posisjoner 15 minutter før markedet stenger hver dag
-        self.Schedule.On(self.DateRules.EveryDay(self.tsla),
-        self.TimeRules.BeforeMarketClose(self.tsla, 15), self.ExitPositions)
-
-
-    #OnData funksjonen blir kalt hver gang vi får ny data fra vår datakilde
-    def OnData(self, data):
-        price = self.Securities[self.tsla].Price
         
+        self.SetCash(100000) #OBS må finne et fornuftig beløp å starte med
+        self.tsla = self.AddEquity("TSLA", Resolution.Second).Symbol #Resolution = Second 
+        self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol #Our own data of tweets 
+
+
+        #Må ha strategi på hvor lenge vi skal holde posisjonen. 
+        #Finner et gitt antall minutter etter å ha tatt posisjon og så selger vi.
+        #Viss en tweet kommer nærmere slutten av dagen, så kan vi ikke vente til neste dag med å selge.
+
+    def OnData(self, data):
+        
+
         if self.musk in data:
-            #Henter ut sentiment score og tweet content fra MuskTweet klassen
             score = data[self.musk].Value
             content = data[self.musk].Tweet
 
-            #Hvis score er over 0.5, kjøp TSLA, hvis score er under -0.5, selg TSLA
-            #Positiv score betyr positiv sentiment, negativ score betyr negativ sentiment
-            #Hvis bare litt poisitiv/negativ sentiment, ikke gjør noe. 
             if score > 0.75:
+
                 #100% av porteføljen blir brukt til å kjøpe TSLA 
-                self.SetHoldings(self.tsla, 1)
+                self.SetHoldings(self.tsla, 1)  
             elif score < -0.75:
                 #100% av porteføljen blir brukt til å gå short TSLA
                 self.SetHoldings(self.tsla, -1)
@@ -58,9 +48,7 @@ class MyAlgorithm(QCAlgorithm):
 
 #Class inheriting from PythonData
 class MuskTweet(PythonData):
-    #En instans av SentimentIntensityAnalyzer. 
-    #SentimentIntensityAnalyzer er en del av nltk.sentiment, som er en del av Natural Language Toolkit (nltk)
-    #Her kan man nok prøve ulike sentimentanalyse modeller for å se hvilken som gir best resultat. 
+
     sia = SentimentIntensityAnalyzer()
 
     #Henter ut data fra MuskTweetsPreProcessed.csv

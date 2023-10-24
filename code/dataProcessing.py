@@ -27,5 +27,4 @@ df = df[df["Text"].str.contains("tesla|tsla")]
 
 df.to_csv('data/Tweets_Processed_10-23_TSLA.csv', index = False)
 
-
 print(df.head())
