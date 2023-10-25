@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-df = pd.read_csv('data/Tweets_10-23.csv', encoding='latin1')
+df = pd.read_csv('data/tweets/tweets_10-23.csv', encoding='latin1')
 
 df = df[["Datetime", "Text"]]
 
@@ -25,6 +25,6 @@ df.to_csv('data/Tweets_Processed_10-23.csv', index = False)
 df["Text"] = df["Text"].str.lower()
 df = df[df["Text"].str.contains("tesla|tsla")]
 
-df.to_csv('data/Tweets_Processed_10-23_TSLA.csv', index = False)
+df.to_csv('data/Tweets_Only_TSLA.csv', index = False)
 
 print(df.head())
