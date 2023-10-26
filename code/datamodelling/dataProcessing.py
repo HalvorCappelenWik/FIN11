@@ -25,6 +25,8 @@ df = df.set_index('Datetime')
 est_zone = pytz.timezone('America/New_York')
 df.index = df.index.tz_convert(est_zone)
 
+df.index = df.index.strftime('%Y-%m-%d %H:%M:%S')
+
 # Save to CSV
 df.to_csv('data/Tweets_Processed_10-23_EST.csv')
 
