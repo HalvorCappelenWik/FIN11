@@ -2,7 +2,7 @@ import pandas as pd
 import re
 import pytz
 
-df = pd.read_csv('data/tweets/tweets_10-23.csv', encoding='latin1')
+df = pd.read_csv('data/tweets/tweets.csv', encoding='latin1')
 
 df = df[["Datetime", "Text"]]
 df = df[::-1].reset_index(drop=True)
