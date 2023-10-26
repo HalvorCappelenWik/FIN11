@@ -6,6 +6,7 @@ df = pd.read_csv('data/tweets/tweets.csv', encoding='latin1')
 df = df[["Datetime", "Text"]]
 df = df[::-1].reset_index(drop=True)
 
+
 # Replace URLs in 'Text' with "{URL}"
 for i in range(len(df)):
     if "http" in df["Text"][i]:
@@ -38,3 +39,4 @@ tesla_df = df[df["Text"].str.contains("tesla|tsla")]
 
 # Save to CSV
 tesla_df.to_csv('data/Tweets_Only_TSLA_EST.csv')
+
