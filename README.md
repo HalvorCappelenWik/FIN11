@@ -3,6 +3,8 @@
 ## Paper  
 * [Link to PDF doc]
 
+test 
+
 ## Implementation 
 * [Twitter Trading Bot](code/twitterAlgorithm.py)
 
