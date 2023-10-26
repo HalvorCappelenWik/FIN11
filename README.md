@@ -2,14 +2,12 @@
 
 ## Paper  
 * [Link to PDF doc]
-
-test 
+ 
 
 ## Implementation 
 * [Twitter Trading Bot](code/twitterAlgorithm.py)
 
 ## Data (raw)
-* [Tweets 2012-2017](https://www.kaggle.com/datasets/kulgen/elon-musks-tweets) 
 * [Tweets 2010-2023 (june)](https://www.kaggle.com/datasets/aryansingh0909/elon-musk-tweets-updated-daily?rvi=1)
 
 
