@@ -65,7 +65,7 @@ class MuskTweet(PythonData):
 
     #Henter ut data fra MuskTweetsPreProcessed.csv
     def GetSource(self, config, date, isLive):
-        source = "https://www.dropbox.com/s/cmi9xcvhh1cbhjl/MuskTweetsPreProcessed.csv?dl=1"
+        source = "https://www.dropbox.com/scl/fi/jg8jhjlz5syeewyzdjic9/Tweets_Processed_EST.csv?rlkey=481fnuk8xc05dp5cq6qr1j8ht&dl=1"
         return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
 
 
