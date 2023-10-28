@@ -14,6 +14,11 @@ class MyAlgorithm(QCAlgorithm):
         self.entry_price = None
         self.stop_loss_percent = 0.02  # 2%
         self.take_profit_percent = 0.05  # 5%
+        
+        self.Schedule.On(self.DateRules.EveryDay(self.tsla),
+        self.TimeRules.BeforeMarketClose(self.tsla, 15), self.ExitPositions)
+
+
 
     def OnData(self, data):
         if not self.tsla in data or not self.musk in data:
@@ -55,7 +60,7 @@ class MuskTweet(PythonData):
 
     # Fetching data from MuskTweetsPreProcessed.csv
     def GetSource(self, config, date, isLive):
-        source = "https://www.dropbox.com/s/cmi9xcvhh1cbhjl/MuskTweetsPreProcessed.csv?dl=1"
+        source = "https://www.dropbox.com/scl/fi/jg8jhjlz5syeewyzdjic9/Tweets_Processed_EST.csv?rlkey=481fnuk8xc05dp5cq6qr1j8ht&dl=1"
         return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile)
 
     # Reading data from MuskTweetsPreProcessed.csv
