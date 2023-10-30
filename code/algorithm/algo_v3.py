@@ -4,8 +4,8 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 
 class MyAlgorithm(QCAlgorithm):
     def Initialize(self):
-        self.SetStartDate(2011, 1, 1)
-        self.SetEndDate(2023, 1, 1)
+        self.SetStartDate(2010, 1, 1)
+        self.SetEndDate(2023, 6, 1)
         self.SetCash(100000)
         
         self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
@@ -15,8 +15,6 @@ class MyAlgorithm(QCAlgorithm):
         self.stop_loss_percent = 0.02  # 2%
         self.take_profit_percent = 0.05  # 5%
         
-        self.Schedule.On(self.DateRules.EveryDay(self.tsla),
-        self.TimeRules.BeforeMarketClose(self.tsla, 15), self.ExitPositions)
 
 
 

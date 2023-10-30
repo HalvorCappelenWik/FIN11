@@ -5,8 +5,8 @@ from AlgorithmImports import *
 class MyAlgorithm(QCAlgorithm):
 
     def Initialize(self):
-        self.SetStartDate(2011, 1, 1)
-        self.SetEndDate(2023, 1, 1)
+        self.SetStartDate(2010, 1, 1)
+        self.SetEndDate(2023, 6, 1)
         self.SetCash(100000)
         self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
         self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol

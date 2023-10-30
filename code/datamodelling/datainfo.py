@@ -3,7 +3,6 @@ import re
 import pytz
 
 df = pd.read_csv('data/tweets/tweets.csv', encoding='latin1')
-
 df = df[["Datetime", "Text"]]
 df = df[::-1].reset_index(drop=True)
 
@@ -15,11 +14,12 @@ est_zone = pytz.timezone('America/New_York')
 df.index = df.index.tz_convert(est_zone)
 
 # Filter rows between 09:30 and 16:00 EST
-filtered_df = df.between_time('09:30', '16:00')
-print("Total Number of rows between 09:30 and 16:00 EST:", len(filtered_df))
+df = df.between_time('09:30', '16:00')
+print("Total Number of rows between 09:30 and 16:00 EST:", len(df))
 
 df["Text"] = df["Text"].str.lower()
-df = df[df["Text"].str.contains("tesla|tsla")]
+df = df[df["Text"].str.contains("tesla|tsla|elon|musk|elonmusk|model3|model 3|modely|model y|modelx|model x|model s|models3|models|cybertr")]
 
-filtered_df = df.between_time('09:30', '16:00')
-print("TSLA/Tesla Tweets between 09:30 and 16:00 EST:", len(filtered_df))
+print("TSLA/Tesla Tweets between 09:30 and 16:00 EST:", len(df))
+
+

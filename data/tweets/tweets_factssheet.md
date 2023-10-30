@@ -5,3 +5,5 @@
 * Total number of tweets containing either TSLA or Tesla: 4013 
 * Total number of tweets inside trading hours (09.30-16.00 EST): 7741 
 * Total number of tweets containing either TSLA or Tesla inside trading hours (09.30-16.00): 1172
+
+

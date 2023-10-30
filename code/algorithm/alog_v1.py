@@ -9,8 +9,8 @@ class MyAlgorithm(QCAlgorithm):
     def Initialize(self):
             
         #Start and end dates for backtest 
-        self.SetStartDate(2012, 11, 1)
-        self.SetEndDate(2017, 1, 1)
+        self.SetStartDate(2010, 1, 1)
+        self.SetEndDate(2023, 6, 1)
 
         #Starting cash for backtest, i.e algoritmen starter med en portefølje på $100,000
         self.SetCash(100000)
@@ -29,7 +29,6 @@ class MyAlgorithm(QCAlgorithm):
 
     #OnData funksjonen blir kalt hver gang vi får ny data fra vår datakilde
     def OnData(self, data):
-        price = self.Securities[self.tsla].Price
         
         if self.musk in data:
             #Henter ut sentiment score og tweet content fra MuskTweet klassen
