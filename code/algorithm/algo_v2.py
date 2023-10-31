@@ -41,7 +41,7 @@ class MuskTweet(PythonData):
     sia = SentimentIntensityAnalyzer()
 
     def GetSource(self, config, date, isLive):
-        source = "https://www.dropbox.com/scl/fi/jg8jhjlz5syeewyzdjic9/Tweets_Processed_EST.csv?rlkey=481fnuk8xc05dp5cq6qr1j8ht&dl=1"
+        source = "https://www.dropbox.com/scl/fi/5movztnf1cl43p2jxaty5/df_tsla_opening_hours.csv?rlkey=jutgy6t9n3dultfcc76fhfyzn&dl=1"
         return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
 
     def Reader(self, config, line, date, isLive):

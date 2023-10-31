@@ -1,6 +1,8 @@
 import pandas as pd
 import re
 import pytz
+import pandas as pd
+from sklearn.utils import shuffle
 
 df = pd.read_csv('data/tweets/tweets.csv', encoding='latin1')
 df = df[["Datetime", "Text"]]
@@ -18,7 +20,7 @@ df['Datetime'] = pd.to_datetime(df['Datetime'], utc=True)
 # Set 'Datetime' as the index
 df = df.set_index('Datetime')
 
-# Convert 'Datetime' index from UTC to EDT
+# Convert 'Datetime' index from UTC to EST 
 est_zone = pytz.timezone('America/New_York')
 df.index = df.index.tz_convert(est_zone)
 
@@ -34,15 +36,31 @@ df_tsla = df_tsla[df_tsla["Text"].str.contains("tesla|tsla|elon|musk|elonmusk|mo
 
 df_tsla.to_csv('data/tweets/df_tsla.csv')
 
-
 df_opening_hours = df_tsla.between_time('09:30', '16:00')
 
 df_opening_hours.index = pd.to_datetime(df_opening_hours.index)
 df_opening_hours.index = df_opening_hours.index.strftime('%Y-%m-%d %H:%M:%S')
 
-
-print(df_opening_hours.info())
-# Save to CSV
 df_opening_hours.to_csv('data/tweets/df_tsla_opening_hours.csv')
+
+
+TrainTestData = pd.read_csv("data/tweets/df_tsla_opening_hours.csv")
+
+TrainTestData['Datetime'] = pd.to_datetime(TrainTestData['Datetime'])
+
+# Shuffle the dataset but keep the original index
+shuffled_data = shuffle(TrainTestData, random_state=42).reset_index(drop=True)
+
+# Split
+split_idx = int(len(shuffled_data) * 0.70)  # 70% of the dataset
+
+train_data = shuffled_data.iloc[:split_idx]
+test_data = shuffled_data.iloc[split_idx:]
+
+train_data = train_data.sort_values('Datetime')
+test_data = test_data.sort_values('Datetime')
+
+train_data.to_csv("data/tweets/train_dataset.csv", index=False)
+test_data.to_csv("data/tweets/test_dataset.csv", index=False)
 
 
