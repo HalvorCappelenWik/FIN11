@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 
 # Sample data
-tweets = pd.read_csv("data/tweets/dataMedRank2.csv", delimiter=";")
+tweets = pd.read_csv("data/tweets/DataMedRank2.csv", delimiter=";")
 
 # Split tweets and labels
 texts = tweets["Text"]
@@ -27,3 +27,12 @@ X_test_counts = vectorizer.transform(X_test)
 y_pred = clf.predict(X_test_counts)
 print("Accuracy:", accuracy_score(y_test, y_pred))
 
+# Print the first 10 predictions
+print("Predictions:", clf.predict(X_test_counts[:100]))
+
+# Print the first 10 actual labels
+print("Actual:", y_test[:100].values)
+
+# Store all the actual labels and predictions in a dataframe and the tweet text 
+df_pred = pd.DataFrame({"Actual": y_test, "Predicted": y_pred, "Text": X_test})
+df_pred.to_csv("data/tweets/df_pred.csv", index=False)
