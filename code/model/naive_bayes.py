@@ -27,10 +27,15 @@ X_test_counts = vectorizer.transform(X_test)
 y_pred = clf.predict(X_test_counts)
 print("Accuracy:", accuracy_score(y_test, y_pred))
 
+
+
+
 # Print the first 10 predictions
 print("Predictions:", clf.predict(X_test_counts[:100]))
 
 # Store all the actual labels and predictions in a dataframe and the tweet text 
 df_pred = pd.DataFrame({"Actual": y_test, "Predicted": y_pred, "Text": X_test})
 df_pred.to_csv("data/tweets/df_pred.csv", index=False)
+
+
 
