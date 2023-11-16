@@ -43,7 +43,6 @@ df_opening_hours.index = df_opening_hours.index.strftime('%Y-%m-%d %H:%M:%S')
 
 df_opening_hours.to_csv('data/tweets/df_tsla_opening_hours.csv')
 
-
 TrainTestData = pd.read_csv("data/tweets/df_tsla_opening_hours.csv")
 
 TrainTestData['Datetime'] = pd.to_datetime(TrainTestData['Datetime'])
