@@ -12,36 +12,31 @@ class MyAlgorithm(QCAlgorithm):
         self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol
 
     def OnData(self, data):
-        price = self.Securities[self.tsla].Price
-        
         if self.musk in data:
             score = data[self.musk].Value
             content = data[self.musk].Tweet
 
-            if score > 0.75:
+            if score == 1:
                 self.SetHoldings(self.tsla, 1)
-                self.ScheduleLiquidation(self.Time + timedelta(minutes=30))
-            elif score < -0.75:
-                self.SetHoldings(self.tsla, -1)
-                self.ScheduleLiquidation(self.Time + timedelta(minutes=30))
-
-            if abs(score) > 0.5:
+                self.ScheduleLiquidation(self.Time + timedelta(minutes=1))
                 self.Log("Score: " + str(score) + ", Tweet: " + content)
 
-    def ScheduleLiquidation(self, liquidation_time):
-        self.Schedule.On(self.DateRules.EveryDay(self.tsla), 
-                        self.TimeRules.At(liquidation_time.time()), 
-                        self.ExitPositions)
+            elif score == -1:
+                self.SetHoldings(self.tsla, -1)
+                self.ScheduleLiquidation(self.Time + timedelta(minutes=1))
+                self.Log("Score: " + str(score) + ", Tweet: " + content)
 
+
+    def ScheduleLiquidation(self, liquidation_time):
+        self.Schedule.On(self.DateRules.EveryDay(self.tsla), self.TimeRules.At(liquidation_time.time()), self.ExitPositions)
 
     def ExitPositions(self):
         self.Liquidate()
 
 class MuskTweet(PythonData):
-    sia = SentimentIntensityAnalyzer()
 
     def GetSource(self, config, date, isLive):
-        source = "https://www.dropbox.com/scl/fi/5movztnf1cl43p2jxaty5/df_tsla_opening_hours.csv?rlkey=jutgy6t9n3dultfcc76fhfyzn&dl=1"
+        source = "https://www.dropbox.com/scl/fi/tn2m2kwdfmw38utiisdbu/trading_test.csv?rlkey=gg8bx53frbqqwmzso9e3wxbua&dl=1"
         return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
 
     def Reader(self, config, line, date, isLive):
@@ -53,14 +48,9 @@ class MuskTweet(PythonData):
 
         try:
             tweet.Symbol = config.Symbol
-            tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') + timedelta(minutes=1)
-            content = data[1].lower()
-            
-            if "tsla" in content or "tesla" in content:
-                tweet.Value = self.sia.polarity_scores(content)["compound"]
-            else:
-                tweet.Value = 0
-
+            tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') 
+            content = data[5].lower()
+            tweet.Value = int (data[6]) 
             tweet["Tweet"] = str(content)
             
         except ValueError:

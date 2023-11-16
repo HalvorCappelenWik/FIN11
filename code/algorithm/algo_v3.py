@@ -13,8 +13,6 @@ class MyAlgorithm(QCAlgorithm):
         
         self.entry_price = None
         self.stop_loss_percent = 0.02  # 2%
-        self.take_profit_percent = 0.05  # 5%
-        
 
 
 
@@ -29,39 +27,33 @@ class MyAlgorithm(QCAlgorithm):
         # Check for stop-loss and take-profit conditions
         if self.entry_price is not None:
             stop_loss_price = self.entry_price * (1 - self.stop_loss_percent)
-            take_profit_price = self.entry_price * (1 + self.take_profit_percent)
             
-            if price <= stop_loss_price or price >= take_profit_price:
+            if price <= stop_loss_price:
                 self.Liquidate()
-                self.Debug("Position closed due to stop-loss/take-profit. Current Price: {:.2f}, Entry Price: {:.2f}, Stop-Loss: {:.2f}, Take-Profit: {:.2f}".format(price, self.entry_price, stop_loss_price, take_profit_price))
+                self.Debug("Position closed due to stop-loss. Current Price: {:.2f}, Entry Price: {:.2f}, Stop-Loss: {:.2f}".format(price, self.entry_price, stop_loss_price))
                 self.entry_price = None
 
-        if score > 0.75:
+        if score == 1:
             self.SetHoldings(self.tsla, 1)
-            self.entry_price = price  
-        elif score < -0.75:
-            self.SetHoldings(self.tsla, -1)
-            self.entry_price = price  
-
-        if abs(score) > 0.5:
             self.Log("Score: {:.2f}, Tweet: {}".format(score, content))
+
+            self.entry_price = price  
+        elif score == -1:
+            self.SetHoldings(self.tsla, -1)
+            self.Log("Score: {:.2f}, Tweet: {}".format(score, content))
+            self.entry_price = price  
 
     # Function to exit positions
     def ExitPositions(self):
         self.Liquidate()
         self.entry_price = None  # Reset entry price
 
-# Class inheriting from PythonData
 class MuskTweet(PythonData):
-    # An instance of SentimentIntensityAnalyzer
-    sia = SentimentIntensityAnalyzer()
 
-    # Fetching data from MuskTweetsPreProcessed.csv
     def GetSource(self, config, date, isLive):
-        source = "https://www.dropbox.com/scl/fi/5movztnf1cl43p2jxaty5/df_tsla_opening_hours.csv?rlkey=jutgy6t9n3dultfcc76fhfyzn&dl=1"
-        return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile)
+        source = "https://www.dropbox.com/scl/fi/tn2m2kwdfmw38utiisdbu/trading_test.csv?rlkey=gg8bx53frbqqwmzso9e3wxbua&dl=1"
+        return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
 
-    # Reading data from MuskTweetsPreProcessed.csv
     def Reader(self, config, line, date, isLive):
         if not (line.strip() and line[0].isdigit()):
             return None
@@ -71,14 +63,9 @@ class MuskTweet(PythonData):
 
         try:
             tweet.Symbol = config.Symbol
-            tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') + timedelta(minutes=1)
-            content = data[1].lower()
-            
-            if "tsla" in content or "tesla" in content:
-                tweet.Value = self.sia.polarity_scores(content)["compound"]
-            else:
-                tweet.Value = 0
-
+            tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') 
+            content = data[5].lower()
+            tweet.Value = int (data[6]) 
             tweet["Tweet"] = str(content)
             
         except ValueError:
