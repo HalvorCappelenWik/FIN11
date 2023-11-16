@@ -14,8 +14,6 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
-
-
 # Define the text preprocessing function
 def preprocess_text(text):
     # Tokenize the text

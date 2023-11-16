@@ -38,17 +38,17 @@ class MyAlgorithm(QCAlgorithm):
             #Hvis score er over 0.5, kjøp TSLA, hvis score er under -0.5, selg TSLA
             #Positiv score betyr positiv sentiment, negativ score betyr negativ sentiment
             #Hvis bare litt poisitiv/negativ sentiment, ikke gjør noe. 
-            if score > 0.75:
+            if score == 1:
                 #100% av porteføljen blir brukt til å kjøpe TSLA 
                 self.SetHoldings(self.tsla, 1)
-            elif score < -0.75:
-                #100% av porteføljen blir brukt til å gå short TSLA
-                self.SetHoldings(self.tsla, -1)
-
-            #Linje for å logge tweet
-            if abs(score) > 0.5:
                 self.Log("Score: " + str(score) + ", Tweet: " + content)
 
+            elif score < -1:
+                #100% av porteføljen blir brukt til å gå short TSLA
+                self.SetHoldings(self.tsla, -1)
+                self.Log("Score: " + str(score) + ", Tweet: " + content)
+            else:  
+                pass
 
     #Funksjon for å gå ut av posisjoner
     def ExitPositions(self):
@@ -79,16 +79,14 @@ class MuskTweet(PythonData):
         data = line.split(',')
         tweet = MuskTweet()
 
+
         try:
             tweet.Symbol = config.Symbol
 
             tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') + timedelta(minutes=1)
-            content = data[1].lower()
+            content = data[5].lower()
             
-            if "tsla" in content or "tesla" in content:
-                tweet.Value = self.sia.polarity_scores(content)["compound"]
-            else:
-                tweet.Value = 0
+            tweet.Value = data[6]
 
             tweet["Tweet"] = str(content)
             
