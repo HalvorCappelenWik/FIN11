@@ -36,10 +36,10 @@ dataset = pd.read_csv("data/tweets/final_dataset.csv", delimiter=";")
 # Preprocess tweets and split into texts and labels
 dataset['Text'] = dataset['Text'].apply(preprocess_tweet)
 tweets = dataset['Text']
-labels = dataset['Rank']
+rank = dataset['Rank']
 
 # Split data
-X_train, X_test, y_train, y_test = train_test_split(tweets, labels, test_size=0.30, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(tweets, rank, test_size=0.30, random_state=42)
 
 # Convert text to a matrix of token counts
 vectorizer = CountVectorizer()
