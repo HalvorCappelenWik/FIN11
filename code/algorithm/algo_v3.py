@@ -36,12 +36,14 @@ class MyAlgorithm(QCAlgorithm):
         if score == 1:
             self.SetHoldings(self.tsla, 1)
             self.Log("Score: {:.2f}, Tweet: {}".format(score, content))
-
-            self.entry_price = price  
+            self.entry_price = price
+    
         elif score == -1:
             self.SetHoldings(self.tsla, -1)
             self.Log("Score: {:.2f}, Tweet: {}".format(score, content))
-            self.entry_price = price  
+            self.entry_price = price
+        else:
+            None
 
     # Function to exit positions
     def ExitPositions(self):

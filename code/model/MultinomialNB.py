@@ -1,9 +1,34 @@
 import pandas as pd
+import nltk
+from nltk.corpus import stopwords, words
+from nltk.tokenize import word_tokenize
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
+
+# Download necessary NLTK resources
+nltk.download('stopwords')
+nltk.download('words')
+nltk.download('punkt')
+
+# Set of English words
+english_words = set(words.words())
+
+# Set of English stopwords
+stop_words = set(stopwords.words('english'))
+
+def preprocess_tweet(tweet):
+    # Tokenize the tweet
+    tokens = word_tokenize(tweet)
+
+    # Remove words not in NLTK words list, stopwords, and punctuation
+    cleaned_tokens = [token.lower() for token in tokens if token.lower() in english_words and 
+                        token.lower() not in stop_words and token.isalpha()]
+
+    # Return the cleaned tweet
+    return ' '.join(cleaned_tokens)
 
 # List of dataset filenames
 datasets = ["tweets_0.001.csv", "tweets_0.002.csv", "tweets_0.003.csv", "tweets_0.004.csv", "tweets_0.005.csv"]
@@ -15,9 +40,10 @@ for dataset in datasets:
     # Load data
     tweets = pd.read_csv(f"data/tweets/{dataset}", delimiter=",")
 
-    # Split tweets and labels
-    texts = tweets["Text"]
-    labels = tweets["Rank"]
+    # Preprocess tweets and split into texts and labels
+    tweets['Text'] = tweets['Text'].apply(preprocess_tweet)
+    texts = tweets['Text']
+    labels = tweets['Rank']
 
     # Split data
     X_train, X_test, y_train, y_test = train_test_split(texts, labels, test_size=0.30, random_state=42)
@@ -45,7 +71,7 @@ for dataset in datasets:
                                columns=[f'Predicted {label}' for label in sorted(set(y_test))])
 
     # Plot the confusion matrix as a table
-    fig, ax = plt.subplots(figsize=(8, 4))  # Adjust to fit your data
+    fig, ax = plt.subplots(figsize=(8, 4))
     ax.axis('tight')
     ax.axis('off')
     the_table = ax.table(cellText=conf_mat_df.values, 
@@ -69,16 +95,3 @@ plt.ylabel('Accuracy')
 plt.title('Comparison of Model Accuracies Across Different Datasets')
 plt.xticks(rotation=45)
 plt.show()
-
-
-
-
-"""
-A few considerations for improvement:
-
-- Depending on the nature of the data and the task, you might want to preprocess the text data (e.g., tokenization, stemming, removing stop words).
-- Consider experimenting with different vectorization techniques like TF-IDF.
-- If the dataset is imbalanced or if there are more relevant metrics for your task, you may want to consider additional evaluation metrics beyond accuracy.
-- You might also want to explore parameter tuning for both the vectorizer and the classifier to improve performance.
-
-"""

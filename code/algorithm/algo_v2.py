@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta
-from nltk.sentiment import SentimentIntensityAnalyzer
 from AlgorithmImports import *
 
 class MyAlgorithm(QCAlgorithm):
@@ -26,7 +25,6 @@ class MyAlgorithm(QCAlgorithm):
                 self.ScheduleLiquidation(self.Time + timedelta(minutes=1))
                 self.Log("Score: " + str(score) + ", Tweet: " + content)
 
-
     def ScheduleLiquidation(self, liquidation_time):
         self.Schedule.On(self.DateRules.EveryDay(self.tsla), self.TimeRules.At(liquidation_time.time()), self.ExitPositions)
 
@@ -34,7 +32,6 @@ class MyAlgorithm(QCAlgorithm):
         self.Liquidate()
 
 class MuskTweet(PythonData):
-
     def GetSource(self, config, date, isLive):
         source = "https://www.dropbox.com/scl/fi/tn2m2kwdfmw38utiisdbu/trading_test.csv?rlkey=gg8bx53frbqqwmzso9e3wxbua&dl=1"
         return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
@@ -42,7 +39,7 @@ class MuskTweet(PythonData):
     def Reader(self, config, line, date, isLive):
         if not (line.strip() and line[0].isdigit()):
             return None
-        
+
         data = line.split(',')
         tweet = MuskTweet()
 
