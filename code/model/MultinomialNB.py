@@ -8,15 +8,12 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 
-# Download necessary NLTK resources
 nltk.download('stopwords')
 nltk.download('words')
 nltk.download('punkt')
 
-# Set of English words
+# Set of English words and stopwords
 english_words = set(words.words())
-
-# Set of English stopwords
 stop_words = set(stopwords.words('english'))
 
 def preprocess_tweet(tweet):
@@ -29,7 +26,6 @@ def preprocess_tweet(tweet):
 
     # Return the cleaned tweet
     return ' '.join(cleaned_tokens)
-
 
 dataset = pd.read_csv("data/tweets/final_dataset.csv", delimiter=";")
 
