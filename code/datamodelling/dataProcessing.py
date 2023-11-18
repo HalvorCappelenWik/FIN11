@@ -2,7 +2,6 @@ import pandas as pd
 import re
 import pytz
 import pandas as pd
-from sklearn.utils import shuffle
 
 df = pd.read_csv('data/tweets/tweets.csv', encoding='latin1')
 df = df[["Datetime", "Text"]]

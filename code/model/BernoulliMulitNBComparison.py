@@ -31,7 +31,7 @@ def preprocess_tweet(tweet):
     return ' '.join(cleaned_tokens)
 
 # List of dataset filenames
-datasets = ["tweets_0.001.csv", "tweets_0.002.csv", "tweets_0.003.csv", "tweets_0.004.csv", "tweets_0.005.csv"]
+datasets = ["final_dataset.csv"]
 
 # Initialize dictionaries to store results
 results_multinomial = {}
@@ -39,7 +39,7 @@ results_bernoulli = {}
 
 for dataset in datasets:
     # Load data
-    tweets = pd.read_csv(f"data/tweets/{dataset}", delimiter=",")
+    tweets = pd.read_csv(f"data/tweets/{dataset}", delimiter=";")
 
     # Preprocess tweets and split into texts and labels
     tweets['Text'] = tweets['Text'].apply(preprocess_tweet)
