@@ -7,6 +7,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB, BernoulliNB
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
+import numpy as np
 
 nltk.download('stopwords')
 nltk.download('words')
@@ -65,17 +66,13 @@ def plot_confusion_matrix_as_table(cm, title):
     ax.axis('off')
 
     col_labels = sorted(set(y_test))
-    cell_colors = [["w" if col_label not in [-1, 0, 1] else '#FFDDC1' if col_label == -1 
-                    else '#C1FFD7' if col_label == 0 else '#C1D7FF' for col_label in col_labels] 
-                    for _ in range(len(cm))]
 
     # Create a table with confusion matrix data and colored cells for specific columns
     the_table = ax.table(cellText=cm, colLabels=col_labels, rowLabels=col_labels, 
-                         cellLoc='center', loc='center', cellColours=cell_colors)
-
+                         cellLoc='center', loc='center')
     # Adding labels for clarity
-    ax.text(0.5, 0.70, 'Predicted', ha='center', va='center', transform=ax.transAxes, fontsize=10, fontweight='bold')
-    ax.text(-0.1, 0.5, 'Actual', ha='center', va='center', rotation='vertical', transform=ax.transAxes, fontsize=10, fontweight='bold')
+    ax.text(0.5, 0.67, 'Predicted', ha='center', va='center', transform=ax.transAxes, fontsize=10, fontweight='bold')
+    ax.text(-0.05, 0.5, 'Actual', ha='center', va='center', rotation='vertical', transform=ax.transAxes, fontsize=10, fontweight='bold')
 
     plt.title(title)
     plt.show()

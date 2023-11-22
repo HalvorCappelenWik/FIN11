@@ -25,6 +25,7 @@ class MyAlgorithm(QCAlgorithm):
                 self.ScheduleLiquidation(self.Time + timedelta(minutes=1))
                 self.Log("Score: " + str(score) + ", Tweet: " + content)
 
+
     def ScheduleLiquidation(self, liquidation_time):
         self.Schedule.On(self.DateRules.EveryDay(self.tsla), self.TimeRules.At(liquidation_time.time()), self.ExitPositions)
 
@@ -33,7 +34,7 @@ class MyAlgorithm(QCAlgorithm):
 
 class MuskTweet(PythonData):
     def GetSource(self, config, date, isLive):
-        source = "https://www.dropbox.com/scl/fi/tn2m2kwdfmw38utiisdbu/trading_test.csv?rlkey=gg8bx53frbqqwmzso9e3wxbua&dl=1"
+        source = "https://www.dropbox.com/scl/fi/kbklj6e4irxak77et4sjw/final_dataset2.csv?rlkey=aqsvbw4pjrqe9wa9phqx4zw56&dl=1"
         return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
 
     def Reader(self, config, line, date, isLive):
@@ -45,9 +46,9 @@ class MuskTweet(PythonData):
 
         try:
             tweet.Symbol = config.Symbol
-            tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') 
-            content = data[5].lower()
-            tweet.Value = int (data[6]) 
+            tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') + timedelta(minutes=1) 
+            content = data[1].lower()
+            tweet.Value = int (data[2]) 
             tweet["Tweet"] = str(content)
             
         except ValueError:
