@@ -1,93 +1,54 @@
-#region imports
-from AlgorithmImports import *
-#endregion
 from datetime import datetime, timedelta
-from nltk.sentiment import SentimentIntensityAnalyzer
+from AlgorithmImports import *
 
 class MyAlgorithm(QCAlgorithm):
 
     def Initialize(self):
-            
-        #Start and end dates for backtest 
-        self.SetStartDate(2010, 1, 1)
+        self.SetStartDate(2012, 1, 1)
         self.SetEndDate(2023, 6, 1)
-
-        #Starting cash for backtest, i.e algoritmen starter med en portefølje på $100,000
         self.SetCash(100000)
-
-        #Legger til TSLA stock til algoritmen
-        #Vi har "Resolution.Minute" -> Det betyr at vi får prisdata hvert minutt. Kan endre til tick/sec/minute/hour/day 
         self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
-
-        #Vår egen data av tweets fra Elon Musk, Resulution.Minute (algoritme sjekker for data hvert miunutt)
         self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol
 
-        #Går ut av posisjoner 15 minutter før markedet stenger hver dag
-        self.Schedule.On(self.DateRules.EveryDay(self.tsla),
-        self.TimeRules.BeforeMarketClose(self.tsla, 15), self.ExitPositions)
-
-
-    #OnData funksjonen blir kalt hver gang vi får ny data fra vår datakilde
     def OnData(self, data):
-        
         if self.musk in data:
-            #Henter ut sentiment score og tweet content fra MuskTweet klassen
             score = data[self.musk].Value
             content = data[self.musk].Tweet
 
-            #Hvis score er over 0.5, kjøp TSLA, hvis score er under -0.5, selg TSLA
-            #Positiv score betyr positiv sentiment, negativ score betyr negativ sentiment
-            #Hvis bare litt poisitiv/negativ sentiment, ikke gjør noe. 
             if score == 1:
-                #100% av porteføljen blir brukt til å kjøpe TSLA 
                 self.SetHoldings(self.tsla, 1)
+                self.ScheduleLiquidation(self.Time + timedelta(minutes=2))
                 self.Log("Score: " + str(score) + ", Tweet: " + content)
 
-            elif score < -1:
-                #100% av porteføljen blir brukt til å gå short TSLA
+            elif score == -1:
                 self.SetHoldings(self.tsla, -1)
+                self.ScheduleLiquidation(self.Time + timedelta(minutes=2))
                 self.Log("Score: " + str(score) + ", Tweet: " + content)
-            else:  
-                pass
 
-    #Funksjon for å gå ut av posisjoner
+
+    def ScheduleLiquidation(self, liquidation_time):
+        self.Schedule.On(self.DateRules.EveryDay(self.tsla), self.TimeRules.At(liquidation_time.time()), self.ExitPositions)
+
     def ExitPositions(self):
         self.Liquidate()
 
-
-#Class inheriting from PythonData
 class MuskTweet(PythonData):
-    #En instans av SentimentIntensityAnalyzer. 
-    #SentimentIntensityAnalyzer er en del av nltk.sentiment, som er en del av Natural Language Toolkit (nltk)
-    #Her kan man nok prøve ulike sentimentanalyse modeller for å se hvilken som gir best resultat. 
-    sia = SentimentIntensityAnalyzer()
-
-    #Henter ut data fra MuskTweetsPreProcessed.csv
     def GetSource(self, config, date, isLive):
-        source = "https://www.dropbox.com/scl/fi/5movztnf1cl43p2jxaty5/df_tsla_opening_hours.csv?rlkey=jutgy6t9n3dultfcc76fhfyzn&dl=1"
+        source = "https://www.dropbox.com/scl/fi/kd7p07s7qheal3dbih589/last_dataset.csv?rlkey=0qqjvg58oy4uopl9g6q7gq2en&dl=1"
         return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
 
-
-    #Leser data fra MuskTweetsPreProcessed.csv
     def Reader(self, config, line, date, isLive):
-
-        #Hvis linjen er tom eller ikke starter med et tall, returner None (not valid data)
         if not (line.strip() and line[0].isdigit()):
             return None
-        
-        #Splitter linjen på komma
+
         data = line.split(',')
         tweet = MuskTweet()
 
-
         try:
             tweet.Symbol = config.Symbol
-
-            tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') + timedelta(minutes=1)
-            content = data[5].lower()
-            
-            tweet.Value = data[6]
-
+            tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') 
+            content = data[1].lower()
+            tweet.Value = int (data[2]) 
             tweet["Tweet"] = str(content)
             
         except ValueError:

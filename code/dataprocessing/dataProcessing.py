@@ -13,20 +13,16 @@ for i in range(len(df)):
         for url in urls:
             df["Text"][i] = df["Text"][i].replace(url, '')
 
-# Convert 'Datetime' column to datetime objects and set as UTC
 df['Datetime'] = pd.to_datetime(df['Datetime'], utc=True)
 
-# Set 'Datetime' as the index
 df = df.set_index('Datetime')
 
-# Convert 'Datetime' index from UTC to EST 
 est_zone = pytz.timezone('America/New_York')
 df.index = df.index.tz_convert(est_zone)
 
 df_all = df.copy()
 df_tsla = df.copy()
 
-# Make text lowercase
 df_tsla["Text"] = df_tsla["Text"].str.lower()
 df_tsla = df_tsla[df_tsla["Text"].str.contains("tesla|tsla|elon|musk|elonmusk|model3|model 3|modely|model y|modelx|model x|model s|models3|models|cybertr")]
 
