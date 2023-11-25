@@ -4,16 +4,16 @@ from AlgorithmImports import *
 class MyAlgorithm(QCAlgorithm):
     def Initialize(self):
         self.SetStartDate(2012, 1, 1)
-        self.SetEndDate(2023, 6, 1)
+        self.SetEndDate(2023, 8, 1)
         self.SetCash(100000)
         self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
         self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol
+
     def OnData(self, data):
         if self.musk in data:
             score = data[self.musk].Value
             content = data[self.musk].Tweet
             quantity = self.CalculateOrderQuantity(self.tsla, score)
-
 
             if score == 1:
                 self.MarketOrder(self.tsla, quantity)
@@ -22,6 +22,7 @@ class MyAlgorithm(QCAlgorithm):
             elif score == -1:
                 self.MarketOrder(self.tsla, quantity)
                 self.ScheduleLiquidation(self.Time + timedelta(minutes=1))
+
     def ScheduleLiquidation(self, liquidation_time):
         self.Schedule.On(self.DateRules.EveryDay(self.tsla), self.TimeRules.At(liquidation_time.time()), self.ExitPositions)
     def ExitPositions(self):

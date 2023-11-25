@@ -7,10 +7,11 @@ class MyAlgorithm(QCAlgorithm):
         self.SetStartDate(2010, 1, 1)
         self.SetEndDate(2023, 6, 1)
         self.SetCash(100000)
-        
+
         self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
         self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol
-        
+
+
         self.entry_price = None
         self.stop_loss_percent = 0.02  # 2%
 
@@ -19,7 +20,8 @@ class MyAlgorithm(QCAlgorithm):
     def OnData(self, data):
         if not self.tsla in data or not self.musk in data:
             return
-        
+
+
         price = self.Securities[self.tsla].Price
         score = data[self.musk].Value
         content = data[self.musk].Tweet
