@@ -57,7 +57,6 @@ bernoulli_accuracy = accuracy_score(y_test, bernoulli_pred)
 # Print accuracy scores
 print(f"Multinomial Naive Bayes Accuracy: {multinomial_accuracy}")
 print(f"Bernoulli Naive Bayes Accuracy: {bernoulli_accuracy}")
-print(X_train_counts.shape)
 
 
 # Function to plot confusion matrix as a table with colored columns
