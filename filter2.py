@@ -27,3 +27,9 @@ df.to_csv('final_results_sec.csv', index=False)
 df2 = pd.read_csv('last_dataset2.csv')
 df2 = df2.drop(columns=['Sentiment'])
 df2.to_csv('last_dataset3.csv', index=False)
+
+
+#count the number of rows in final_results_sec.csv
+df3 = pd.read_csv('final_results_sec.csv')
+print(df3.shape[0])
+
