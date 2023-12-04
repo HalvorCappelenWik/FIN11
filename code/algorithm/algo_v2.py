@@ -1,78 +1,76 @@
-from AlgorithmImports import *
 from datetime import datetime, timedelta
-from nltk.sentiment import SentimentIntensityAnalyzer
+from AlgorithmImports import *
 
 class MyAlgorithm(QCAlgorithm):
     def Initialize(self):
-        self.SetStartDate(2010, 1, 1)
-        self.SetEndDate(2023, 6, 1)
-        self.SetCash(100000)
+        self.SetStartDate(2012, 1, 1)
+        self.SetEndDate(2023, 8, 1)
+        self.SetCash(10000)
 
-        self.tsla = self.AddEquity("TSLA", Resolution.Minute).Symbol
-        self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Minute).Symbol
+        tsla_security = self.AddEquity("TSLA", Resolution.Tick)
+        self.tsla = tsla_security.Symbol
+        self.musk = self.AddData(MuskTweet, "MUSKTWTS", Resolution.Tick).Symbol
 
+        self.SetBrokerageModel(BrokerageName.QuantConnectBrokerage, AccountType.Cash) 
+        tsla_security.SetFeeModel(InteractiveBrokersFeeModel())
 
-        self.entry_price = None
-        self.stop_loss_percent = 0.02  # 2%
-
-
+        self.stopLossPercentage = 0.99 # 1% stop loss
+        self.openingPrices = {}  # To track opening prices of positions
 
     def OnData(self, data):
-        if not self.tsla in data or not self.musk in data:
-            return
+        if self.musk in data:
+            score = data[self.musk].Value
+            quantity = self.CalculateOrderQuantity(self.tsla, score)
+            if score == 1:
+                self.MarketOrder(self.tsla, quantity)
+                self.ScheduleLiquidation(self.Time + timedelta(minutes=1))
+            elif score == -1:
+                self.MarketOrder(self.tsla, quantity)
+                self.ScheduleLiquidation(self.Time + timedelta(minutes=1))
 
+        # Check for stop loss
+        for holding in self.Portfolio.Values:
+            if holding.Invested:
+                symbol = holding.Symbol
+                if symbol in data and symbol in self.openingPrices:
+                    stopLossPrice = self.openingPrices[symbol] * self.stopLossPercentage
+                    if data[symbol].Price <= stopLossPrice:
+                        self.Liquidate(symbol)
+                        self.Log(f"Stop loss triggered for {symbol} at {data[symbol].Price}")
 
-        price = self.Securities[self.tsla].Price
-        score = data[self.musk].Value
-        content = data[self.musk].Tweet
-        
-        # Check for stop-loss and take-profit conditions
-        if self.entry_price is not None:
-            stop_loss_price = self.entry_price * (1 - self.stop_loss_percent)
-            
-            if price <= stop_loss_price:
-                self.Liquidate()
-                self.Debug("Position closed due to stop-loss. Current Price: {:.2f}, Entry Price: {:.2f}, Stop-Loss: {:.2f}".format(price, self.entry_price, stop_loss_price))
-                self.entry_price = None
-
-        if score == 1:
-            self.SetHoldings(self.tsla, 1)
-            self.Log("Score: {:.2f}, Tweet: {}".format(score, content))
-            self.entry_price = price
-    
-        elif score == -1:
-            self.SetHoldings(self.tsla, -1)
-            self.Log("Score: {:.2f}, Tweet: {}".format(score, content))
-            self.entry_price = price
-        else:
-            None
-
-    # Function to exit positions
+    def ScheduleLiquidation(self, liquidation_time):
+        self.Schedule.On(self.DateRules.EveryDay(self.tsla), self.TimeRules.At(liquidation_time.time()), self.ExitPositions)
     def ExitPositions(self):
         self.Liquidate()
-        self.entry_price = None  # Reset entry price
+    def OnOrderEvent(self, orderEvent):
+        if orderEvent.Status == OrderStatus.Filled:
+            order = self.Transactions.GetOrderById(orderEvent.OrderId)
+            self.Log(f"Order executed: ID: {order.Id}, Type: {order.Type}, Symbol: {order.Symbol}, Quantity: {order.Quantity}. Fees: {orderEvent.OrderFee}")
+            # Record the opening price of the position
+            if orderEvent.Direction == OrderDirection.Buy:
+                self.openingPrices[order.Symbol] = orderEvent.FillPrice
 
 class MuskTweet(PythonData):
-
     def GetSource(self, config, date, isLive):
-        source = "https://www.dropbox.com/scl/fi/tn2m2kwdfmw38utiisdbu/trading_test.csv?rlkey=gg8bx53frbqqwmzso9e3wxbua&dl=1"
-        return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile);
-
+        # For backtesting, livefeeding of data is not implemented. 
+        source = "https://www.dropbox.com/scl/fi/4t6szo6q50piauhwjns6v/final_results_sec.csv?rlkey=mtx8ugpkss6y5lq8u6db9a0f3&dl=1"
+        return SubscriptionDataSource(source, SubscriptionTransportMedium.RemoteFile)
     def Reader(self, config, line, date, isLive):
         if not (line.strip() and line[0].isdigit()):
             return None
-        
         data = line.split(',')
         tweet = MuskTweet()
-
         try:
             tweet.Symbol = config.Symbol
             tweet.Time = datetime.strptime(data[0], '%Y-%m-%d %H:%M:%S') 
-            content = data[5].lower()
-            tweet.Value = int (data[6]) 
+            content = data[1].lower()
+            tweet.Value = int (data[2]) 
             tweet["Tweet"] = str(content)
-            
         except ValueError:
             return None
-        
         return tweet
+    
+
+
+
+
