@@ -13,6 +13,7 @@ nltk.download('stopwords')
 nltk.download('words')
 nltk.download('punkt')
 
+
 # Set of English words and stopwords
 english_words = set(words.words())
 stop_words = set(stopwords.words('english'))
@@ -23,7 +24,7 @@ def preprocess_tweet(tweet):
                       token.lower() not in stop_words and token.isalpha()]
     return ' '.join(cleaned_tokens)
 
-dataset = pd.read_csv("data/tweets/last_dataset.csv", delimiter=",")
+dataset = pd.read_csv("cleaned_final_results.csv", delimiter=",")
 
 # Preprocess tweets and split into texts and labels
 dataset['Text'] = dataset['Text'].apply(preprocess_tweet)
